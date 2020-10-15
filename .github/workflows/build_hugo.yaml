@@ -14,12 +14,13 @@ jobs:
       run: hugo -d docs
     - name: Commit files
       run: |
-        git config --local user.email "test@github.com"
-        git config --local user.name "GitHub Action test"
+        git config --local user.email "ackersyndikat@protonmail.com"
+        git config --local user.name "Ackersyndikat-Runner"
         git add ./docs
         git commit -m "Published 👍"
     - name: Push changes # push the output folder to your repo
       uses: ad-m/github-push-action@master
       with:
+        branch: main
         github_token: ${{ secrets.GITHUB_TOKEN }}
         force: true
