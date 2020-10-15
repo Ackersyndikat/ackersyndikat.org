@@ -2,6 +2,7 @@ baseURL = "https://ackersyndikat.org"
 title = "Ackersyndikat"
 DefaultContentLanguage = "de"
 assetDir = '.'
+disableKinds = ["taxonomy","taxonomyTerm","sitemap","RSS"]
 
 [imaging]
 quality = 60
