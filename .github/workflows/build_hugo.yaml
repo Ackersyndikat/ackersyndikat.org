@@ -1,0 +1,14 @@
+name: Python package
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install hugo
+      run: sudo apt-get install hugo
+    - name: Run hugo
+      run: hugo -d docs

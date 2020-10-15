@@ -1,0 +1,18 @@
+baseURL = "https://ackersyndikat.org"
+title = "Ackersyndikat"
+DefaultContentLanguage = "de"
+assetDir = '.'
+
+[imaging]
+quality = 60
+resampleFilter = "lanczos"
+
+[permalinks]
+pages = "/:slug/"
+post = "/:year/:month/:day/:title/"
+audio ="/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
