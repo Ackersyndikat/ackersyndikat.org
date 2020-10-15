@@ -12,3 +12,14 @@ jobs:
       run: sudo apt-get install hugo
     - name: Run hugo
       run: hugo -d docs
+    - name: Commit files
+      run: |
+        git config --local user.email "test@github.com"
+        git config --local user.name "GitHub Action test"
+        git add ./docs
+        git commit -m "Published 👍"
+    - name: Push changes # push the output folder to your repo
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
