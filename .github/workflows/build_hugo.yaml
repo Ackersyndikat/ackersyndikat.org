@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install hugo
-      run: sudo apt-get install hugo
+      run: brew install hugo
     - name: Run hugo
       run: hugo -d docs
     - name: Commit files
