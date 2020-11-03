@@ -2,13 +2,9 @@ $white: #fcfcfc
 $black: hsl(0, 0, 14%)
 
 $text: #665d42
-$heading: #3e6a3c
 
-$light-brown: #e8a000
-$yello: #ffd643
-$green: #c9e6a6
-$blue: #719585
-$brown: #f6c758
+$primary: #3e6a3c
+$primary-dark: darken($primary, 10)
 
 *
     color: $text
@@ -22,8 +18,11 @@ body
     background-position: center bottom
 
 h1 a, h2, h3
-    color: $heading
+    color: $primary
     text-decoration: none
+    &:hover
+        background: unset
+        color: $primary
 
 .title
     color: $white
@@ -43,9 +42,15 @@ main
     background: rgba($white, 0.97)
 
 footer
-    .title, a, li, p
+    a, li, p
         color: $white
-        text-shadow: rgba(0,0,0,0.1)
+        text-shadow: 1px 1px 0 rgba(0,0,0,0.1)
+    .title
+        background: $white
+        color: $primary
+        padding: 0.2em 0.3em
 
 a
-    color: $black
+    color: $primary
+    &:hover
+        color: $primary-dark
