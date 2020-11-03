@@ -2,9 +2,9 @@
 
 {{ define "prenav" }}
 <div class="backdrop">
-    <video autoplay muted loop>
-        <source src="{{ "hero.webm" | absURL }}" type="video/webm">
-        </video>
+    <video autoplay muted loop poster="{{ "heero.jpg" | absURL }}">
+        <source src="{{ "heero.webm" | absURL }}" type="video/webm">
+    </video>
 </div>
 {{ end }}
 

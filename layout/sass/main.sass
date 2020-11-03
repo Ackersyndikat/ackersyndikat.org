@@ -2,9 +2,14 @@
 
 $linewidth: 900px
 $mobilebreak: 48em
+$iphonebreak: 300px
 
 =desktop
   @media screen and (min-width: $mobilebreak)
+    @content
+
+=iphone
+  @media (max-width: 300px)
     @content
 
 @import layout
