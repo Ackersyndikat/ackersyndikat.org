@@ -1,8 +1,8 @@
 # baseURL = "https://ackersyndikat.org"
-baseURL = "https://ackersyndikat.github.io"
+baseURL = "https://ackersyndikat.github.io/ackersyndikat.org"
 title = "Ackersyndikat"
 DefaultContentLanguage = "de"
-disableKinds = ["taxonomy","taxonomyTerm","sitemap","RSS"]
+disableKinds = ["taxonomy","taxonomyTerm","sitemap","RSS","section"]
 assetDir = "layout"
 layoutDir = "layout"
 
