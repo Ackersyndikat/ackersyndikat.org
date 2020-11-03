@@ -1,0 +1,44 @@
+@font-face
+  font-family: 'WorkSans'
+  font-style: normal
+  src: local('WorkSans'), local('WorkSans-VariableFont'), url('WorkSans-VariableFont_wght.ttf')
+  font-display: swap
+@font-face
+  font-family: 'WorkSans'
+  font-style: italic
+  src: local('WorkSans Italic'), local('WorkSans-Italic-VariableFont'), url('WorkSans-Italic-VariableFont_wght.ttf')
+  font-display: swap
+
+$font: 'WorkSans', Tahoma, Geneva, Verdana, sans-serif
+
+body
+  font-family: $font
+  font-size: 16px
+  line-height: 1.5em
+
+h1, h2, h3
+  font-weight: bold
+
+.title
+  font-size: 1.5rem
+  font-weight: bold
+
+h1
+  font-size: 2.5em
+  line-height: 1.2em
+  +desktop
+    font-size: 3em
+
+h2
+  font-size: 2rem
+
+h3
+  font-size: 1.5rem
+
+li a
+  text-decoration: none
+
+form
+  font-size: 1.2rem
+  input, textarea
+    font-size: 1.05rem

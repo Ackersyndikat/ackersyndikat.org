@@ -1,17 +1,16 @@
 baseURL = "https://ackersyndikat.org"
 title = "Ackersyndikat"
 DefaultContentLanguage = "de"
-assetDir = '.'
 disableKinds = ["taxonomy","taxonomyTerm","sitemap","RSS"]
+assetDir = "layout"
+layoutDir = "layout"
 
 [imaging]
 quality = 60
 resampleFilter = "lanczos"
 
 [permalinks]
-pages = "/:slug/"
-post = "/:year/:month/:day/:title/"
-audio ="/:slug/"
+pages = "/:filename/"
 
 [markup]
   [markup.goldmark]

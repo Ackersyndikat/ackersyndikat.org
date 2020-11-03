@@ -1,0 +1,88 @@
+nav
+    display: inline
+    .menu
+        display: flex
+        max-height: 0
+        flex-direction: column
+        transition: max-height .2s ease-out
+        overflow: hidden
+        clear: both
+        box-shadow: 0 13px 27px -5px rgba(50,50,93,0.25),0 8px 16px -8px rgba(0,0,0,0.3)
+        +desktop
+            padding: 0.7em 2em
+            overflow: visible
+            max-height: unset
+            flex-direction: row
+            justify-content: space-between
+        li
+            display: inline
+            position: relative
+            margin: 1em 0
+            +desktop
+                margin: 0
+                &:hover
+                    .dropdown
+                        display: block
+        .dropdown
+            padding-top: 1em
+            +desktop
+                display: none
+                position: absolute
+                top: 100%
+                left: 0
+            ul
+                display: block
+                position: relative
+                +desktop
+                    padding: 1.5em 4em 1.5em 1em
+                    background: $white
+                    box-shadow: 0 13px 27px -5px rgba(50,50,93,0.25),0 8px 16px -8px rgba(0,0,0,0.3)
+                    border-bottom-left-radius: 5px
+                    border-bottom-right-radius: 5px
+                li
+                    display: block
+                    white-space: nowrap
+                    margin-bottom: 1em
+
+    .menu-icon
+        +desktop
+            display: none
+        cursor: pointer
+        display: inline-block
+        float: right
+        padding: 28px 20px
+        position: relative
+        user-select: none
+        .navicon
+            display: block
+            position: relative
+            height: 2px
+            width: 18px
+            background: #333
+            transition: background .2s ease-out
+            &:before, &:after
+                content: ''
+                display: block
+                position: absolute
+                height: 100%
+                width: 100%
+                background: #333
+                transition: all .2s ease-out
+            &:before
+                top: 5px
+            &:after
+                top: -5px
+
+    .menu-btn
+        display: none
+        &:checked ~ .menu
+            max-height: max-content
+        &:checked ~ .menu-icon .navicon
+            background: transparent
+            &:before
+                transform: rotate(-45deg)
+            &:after
+                transform: rotate(45deg)
+        &:checked ~ .menu-icon:not(.steps) .navicon:before,
+        &:checked ~ .menu-icon:not(.steps) .navicon:after
+            top: 0

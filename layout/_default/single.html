@@ -1,0 +1,16 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "prenav" }}
+<div class="backdrop">
+    <video autoplay muted loop>
+        <source src="/hero.webm" type="video/webm">
+        </video>
+</div>
+{{ end }}
+
+{{ define "main" }}
+    <article>
+        <h2>{{ .Title }}</h2>
+        {{ .Content }}
+    </article>
+{{ end }}

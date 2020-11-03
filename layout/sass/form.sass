@@ -1,0 +1,43 @@
+form
+    background: $white
+    position: relative
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.1)
+    margin: 0 auto
+    padding: 3em 2em
+    max-width: 28em
+    &::before
+        content: ''
+        position: absolute
+        height: 100%
+        width: 100%
+        top: 0
+        left: 0
+        box-shadow: 0 0 0 9px #eee
+        z-index: -1
+        background: #eee
+        transform: rotate(-3deg)
+    input, textarea
+        display: block
+        width: 100%
+        margin-bottom: 2em
+        padding: 0.5em
+        background: #eaeaea
+        border: 0px solid white
+        border-radius: 2px
+        +desktop
+            width: 22em
+    textarea
+        resize: vertical
+        min-height: 10em
+    label
+        display: block
+        float: left
+        margin-right: 1em
+        min-width: 5em
+
+.button
+    width: unset
+    margin-top: 1em
+    padding: 0.4em 2em
+    background: $heading
+    color: $white

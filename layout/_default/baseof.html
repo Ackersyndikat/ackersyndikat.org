@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+
+  {{ $sass_options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
+  {{ $style := resources.Get "sass/main.sass" | toCSS $sass_options | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+</head>
+
+<body>
+  {{ block "prenav" . }}
+  {{ end }}
+
+  <header>
+    <h1><a href="/">Das Ackersyndikat</a></h1>
+
+
+    <nav>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+      <ul class="menu">
+        {{ range .Site.Menus.main }}
+        <li>
+          <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+          {{ if .HasChildren }}
+          <div class="dropdown">
+            <ul>
+              {{ range .Children }}
+              <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+            {{ end }}
+          </div>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ block "main" . }}
+    {{ end }}
+  </main>
+
+  <footer>
+    <div>
+      <span class="title">Das Ackersyndikat</span>
+      <p>Land und Höfe als Gemeingut – dezentral, selbstorganisiert und solidarisch</p>
+    </div>
+    <div>
+      <ul>
+        <li><a href="{{ "impressum" | absURL }}">Impressum</a></li>
+        <li><a href="{{ "datenschutz" | absURL }}">Datenschutz</a></li>
+      </ul>
+    </div>
+  </footer>
+</body>
+
+</html>

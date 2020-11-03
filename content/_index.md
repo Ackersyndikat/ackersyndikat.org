@@ -2,6 +2,6 @@
 title: "Das Ackersyndikat"
 ---
 
-## Das Syndikat
+## Land und Höfe als Gemeingut
 
-Und wenn ich etwas von Hand hinzufüge?
+Startseite speziell gestalten

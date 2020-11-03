@@ -1,0 +1,57 @@
+body, footer
+    display: flex
+    align-items: center
+    flex-direction: column
+    padding: 0
+    margin: 0
+
+header, main, footer
+    width: 100%
+    max-width: $linewidth
+    box-sizing: border-box
+
+header
+    max-width: calc(#{$linewidth} + 4em)
+    margin-bottom: 2em
+    padding: 0 2em
+    z-index: 2
+    h1
+        display: inline-block
+        box-sizing: border-box
+        margin: 0
+        padding: 0 0.4em 0.2em 0.25em
+        max-width: calc( 100vw - 130px )
+        +desktop
+            padding: 0 1.4em 0.2em 0.25em
+
+.backdrop
+    overflow: hidden
+    z-index: -2
+    position: absolute
+    top: 0
+    max-height: 40vh
+    width: 100%
+    video
+        width: 100%
+        transform: translateY(-7em)
+
+footer
+    display: flex
+    justify-content: flex-start
+    flex-direction: column
+    flex-wrap: wrap
+    column-gap: 4em
+    padding: 9em 3em 2em
+    +desktop
+        flex-direction: row
+        div
+            max-width: 30%
+    ul
+        padding-left: 0
+        li
+            display: block
+
+main
+    min-height: calc(100vh - 19em)
+    padding: 2em 3em
+    z-index: 1
