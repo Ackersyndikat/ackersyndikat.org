@@ -19,8 +19,7 @@
   {{ end }}
 
   <header>
-    <h1><a href="/">Das Ackersyndikat</a></h1>
-
+    <h1><a href="{{ .Site.BaseURL }}">Das Ackersyndikat</a></h1>
 
     <nav>
       <input class="menu-btn" type="checkbox" id="menu-btn" />
@@ -44,10 +43,8 @@
     </nav>
   </header>
 
-  <main>
-    {{ block "main" . }}
-    {{ end }}
-  </main>
+  {{ block "main" . }}
+  {{ end }}
 
   <footer>
     <div>
