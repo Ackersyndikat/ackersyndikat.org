@@ -27,6 +27,11 @@ h1 a, h2, h3
 .title
     color: $white
 
+a
+    color: $primary
+    &:hover
+        color: $primary-dark
+
 main, footer
     border-left: 1px solid rgba(0,0,0,0.05)
     border-right: 1px solid rgba(0,0,0,0.05)
@@ -45,12 +50,9 @@ footer
     a, li, p
         color: $white
         text-shadow: 1px 1px 0 rgba(0,0,0,0.1)
+    a:hover
+        color: darken($white, 10)
     .title
         background: $white
         color: $primary
         padding: 0.2em 0.3em
-
-a
-    color: $primary
-    &:hover
-        color: $primary-dark

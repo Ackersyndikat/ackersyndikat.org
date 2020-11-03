@@ -17,24 +17,28 @@ nav
         li
             display: inline
             position: relative
-            margin: 1em 0
+            a
+                display: block
+                padding: 1em 0
+                +desktop
+                    padding: 0
             +desktop
                 margin: 0
                 &:hover
                     .dropdown
                         display: block
         .dropdown
-            padding-top: 1em
             +desktop
                 display: none
                 position: absolute
                 top: 100%
                 left: 0
+                padding-top: 1em
             ul
                 display: block
                 position: relative
                 +desktop
-                    padding: 1.5em 4em 1.5em 1em
+                    padding: 1em 4em 1em 1em
                     background: $white
                     box-shadow: 0 13px 27px -5px rgba(50,50,93,0.25),0 8px 16px -8px rgba(0,0,0,0.3)
                     border-bottom-left-radius: 5px
@@ -42,7 +46,10 @@ nav
                 li
                     display: block
                     white-space: nowrap
-                    margin-bottom: 1em
+                    a
+                        +desktop
+                            padding: 0.4em 0
+
 
     .menu-icon
         +desktop
