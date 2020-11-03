@@ -13,14 +13,15 @@ header, main, footer
 header
     max-width: calc(#{$linewidth} + 4em)
     margin-bottom: 2em
-    padding: 0 2em
+    padding: 0
     z-index: 2
+    +desktop
+        padding-left: 2em
     h1
         display: inline-block
         box-sizing: border-box
         margin: 0
         padding: 0 0.4em 0.2em 0.25em
-        max-width: calc( 100vw - 130px )
         +desktop
             padding: 0 1.4em 0.2em 0.25em
 
@@ -38,7 +39,7 @@ header
 footer
     display: flex
     justify-content: flex-start
-    flex-direction: column
+    flex-direction: column-reverse
     flex-wrap: wrap
     column-gap: 4em
     padding: 9em 3em 2em
@@ -53,5 +54,7 @@ footer
 
 main
     min-height: calc(100vh - 19em)
-    padding: 2em 3em
+    padding: 2em 1em
     z-index: 1
+    +desktop
+        padding: 2em 5em
