@@ -8,7 +8,7 @@ menu:
 
 Mit einer Spende ermöglichen Sie es dem Ackersyndikat, sich an Hofprojekten zu beteiligen und damit dauerhaft unverkäufliche, ökologisch genutzte Landwirtschaftsflächen zu sichern. Da aus der Landwirtschaft nicht genug Geld erwirtschaftet werden kann, um das Solidartransfer-Konzept des [Miethäuser Syndikats](https://www.syndikat.org/de/solidartransfer/) komplett zu übernehmen, sind wir zur Aufnahme neuer Projekte stark auf Spenden angewiesen.
 
-Die Spenden an den Ackersyndikat e.V. können Sie im Rahmen der gesetzlichen Möglichkeiten aufgrund der Gemeinnützigkeit des Vereins steuerlich geltend machen. Der Verein arbeitet ausschließlich ehrenamtlich.
+Die Spenden an den Ackersyndikat e.V. können Sie im Rahmen der gesetzlichen Möglichkeiten aufgrund der Gemeinnützigkeit des Vereins steuerlich geltend machen. Der Verein hat einen stiftungsartigen Charakter, Spenden und andere Zuwendungen an den Verein - soweit Sie nichts anderes bestimmen - sind zum Vermögensaufbau des Vereins bestimmt und daher vom Gebot der zeitnahen Mittelverwendung ausgenommen. Das ist wichtig, damit wir das Geld zur Beteiligung an den Hofprojekten verwenden können.
 
 ### Geldspende
 
