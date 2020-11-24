@@ -30,13 +30,16 @@ header
     z-index: -2
     position: absolute
     top: 0
-    min-height: 500px
-    max-height: 40vh
+    min-height: 1em
+    max-height: 13em
     width: 100%
-    video
+    img
         width: 100%
         +desktop
             transform: translateY(-7em)
+    &.full
+        min-height: 500px
+        max-height: 40vh
 
 footer
     display: flex
@@ -54,12 +57,20 @@ footer
         li
             display: block
 
+$main-padding: 5em
 main
     min-height: calc(100vh - 19em)
     padding: 2em 1em
     z-index: 1
     +desktop
-        padding: 2em 5em
+        padding: 2em $main-padding
+    img
+        margin: 0.5em 0 1em
+        position: relative
+        left: -$main-padding
+        width: calc(100% + 6em)
+        border: 1px solid #eee
+        border-width: 0 ($main-padding - 3em)
 
 blockquote
     display: block
@@ -69,23 +80,21 @@ blockquote
     padding: 1.5em 1em 0.5em
     margin: 1.5em 1em
     position: relative
-
-blockquote:before
-    content: '\201C'
-    position: absolute
-    top: 0em
-    left: 50%
-    transform: translate(-50%, -50%)
-    background: #fff
-    width: 3rem
-    height: 2rem
-    font: 6em/1.08em $font, sans-serif
-    color: #666
-    text-align: center
-
-blockquote:after
-    content: "\2013 \2003" attr(cite)
-    display: block
-    text-align: right
-    font-size: 0.875em
-    color: #e74c3c
+    &:before
+        content: '\201C'
+        position: absolute
+        top: 0em
+        left: 50%
+        transform: translate(-50%, -50%)
+        background: #fff
+        width: 3rem
+        height: 2rem
+        font: 6em/1.08em $font, sans-serif
+        color: #666
+        text-align: center
+    &:after
+        content: "\2013 \2003" attr(cite)
+        display: block
+        text-align: right
+        font-size: 0.875em
+        color: #e74c3c

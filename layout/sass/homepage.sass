@@ -1,11 +1,11 @@
 body > section
-        width: 100%
-        display: block
-        max-width: $linewidth
-        box-sizing: border-box
-        padding: 0em 1em
-        +desktop
-            padding: 0em 4em
+    width: 100%
+    display: block
+    max-width: $linewidth
+    box-sizing: border-box
+    padding: 0em 1em
+    +desktop
+        padding: 0em 4em
         &.wide
             max-width: $linewidth + 50px
         &.wider
@@ -53,10 +53,14 @@ body > section
     flex-flow: row wrap
     justify-content: space-evenly
     align-items: flex-start
-    column-gap: 3em
+    column-gap: 2em
+    text-align: center
+    div
+        +desktop
+            max-width: 22%
     h3
         font-weight: 500
-        font-size: 1.1rem
+        font-size: 1.4rem
 
 .expose
     margin: 3em 0
