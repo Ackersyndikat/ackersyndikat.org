@@ -39,15 +39,21 @@ main
         td
             padding: 0 0em
     img
-        float: right
-        max-width: calc(65%)
-        margin: 0 (-$main-padding - 8em) 2em 2em
-        outline: 1px solid #aaa
+        display: block
+        margin: 0 auto
+        max-height: 20vh
+        max-width: calc(100% - 4em)
         outline-offset: 4px
-        transform: rotate(2deg)
+        outline: 1px solid #aaa
         transition: 250ms
+        width: auto
+        +desktop
+            float: right
+            margin: 0 (-$main-padding - 8em) 2em 2em
+            max-height: initial
+            max-width: calc(65%)
+            transform: rotate(2deg)
         &:hover
-            // filter: contrast(1.2)
             filter: sepia(0.3)
         &.svg
             float: none
