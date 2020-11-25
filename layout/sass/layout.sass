@@ -70,13 +70,11 @@ main
         margin: 0 (-$main-padding - 8em) 2em 2em
         outline: 1px solid #aaa
         outline-offset: 4px
-    // img
-    //     margin: 0.5em 0 1em
-    //     position: relative
-    //     left: -$main-padding
-    //     width: calc(100% + 6em)
-    //     border: 1px solid #eee
-    //     border-width: 0 ($main-padding - 3em)
+        transform: rotate(2deg)
+        transition: 250ms
+        &:hover
+            // filter: contrast(1.2)
+            filter: sepia(0.3)
 
 blockquote
     display: block
@@ -104,3 +102,18 @@ blockquote
         text-align: right
         font-size: 0.875em
         color: #e74c3c
+
+table
+    font-size: 0.9rem
+    margin-bottom: 4em
+    +desktop
+        border-spacing: $main-padding/2 0.3em
+        border-collapse: separate
+        margin-left: -$main-padding
+        width: calc(100% + #{$main-padding * 2})
+    thead th
+        text-align: left
+        border-bottom: 4px solid #eee
+    td
+        padding: 0 0em
+        // background: red
