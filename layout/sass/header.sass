@@ -12,8 +12,20 @@ header
         box-sizing: border-box
         margin: 0
         a
+            font-weight: 600
+        a:hover
+            font-weight: 700
+        a, a:hover
+            transition: 250ms
             display: block
             padding: 0.4em 0.5em
+            color: $primary
+            text-decoration: none
+            font-size: 1.6rem
+            +desktop
+                font-size: 2.7rem
+            +iphone
+                font-size: 1.2rem
     h1, nav .menu, .menu-icon
         background: $white
         +desktop
