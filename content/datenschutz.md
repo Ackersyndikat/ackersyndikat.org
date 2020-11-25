@@ -3,10 +3,10 @@ title: "Datenschutz"
 ---
 
 <pre>Ackersyndikat e.V.
-ADRESSE ZEILE 1
-ADRESSE ZEILE 2
+Kirchweg 1
+D-34260 Kaufungen
 
-Tel.: TELEFONNUMMER
+Tel.: TODO TELEFONNUMMER
 E-Mail: kontakt@ackersyndikat.org</pre>
 
 (im Folgenden: „Wir“) ist als Betreiber der Webseite ackersyndikat.org Verantwortlicher für die personenbezogenen Daten der Nutzer\*innen der Webseite (im Folgenden: „du“) im Sinne der Datenschutzgrundverordnung.

@@ -3,15 +3,15 @@ title: "Impressum"
 ---
 
 <pre>Ackersyndikat e.V.
-ADRESSE ZEILE 1
-ADRESSE ZEILE 2
+Kirchweg 1
+D-34260 Kaufungen
 
-Tel.: TELEFONNUMMER
+Tel.: TODO TELEFONNUMMER
 E-Mail: kontakt@ackersyndikat.org</pre>
 
 ### Vertretungsberechtigte Vorstände
 
-VORSTÄNDE
+TODO VORSTÄNDE
 
 ### Registereintrag
 

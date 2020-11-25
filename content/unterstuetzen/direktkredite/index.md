@@ -33,6 +33,6 @@ Für einen Direktkredit an den Ackersyndikat e.V. gilt:
 
 #### Rechtliche Hinweise
 
-Nach dem Vermögensanlagengesetz bietet der Ackersyndikat e.V. seit dem ???????? verschiedene neue Vermögensanlagen an, die in der Annahme jeweils unterschiedlich verzinster Nachrangdarlehen bestehen.  
+Nach dem Vermögensanlagengesetz bietet der Ackersyndikat e.V. seit dem TODO ???????? verschiedene neue Vermögensanlagen an, die in der Annahme jeweils unterschiedlich verzinster Nachrangdarlehen bestehen.  
 Im Rahmen der neuen Vermögensanlagen werden innerhalb von 12 Monaten nicht mehr als 100.000 EUR durch den Ackersyndikat e.V. angenommen. Es besteht daher keine Prospektpflicht nach dem Vermögensanlagengesetz.  
 Die Konditionen für einen Direktkredit an ein Hofprojekt sind beim jeweiligen Hofprojekt zu erfragen.

@@ -14,9 +14,28 @@ Die Spenden an den Ackersyndikat e.V. können Sie im Rahmen der gesetzlichen Mö
 
 ### Geldspende
 
-Wir freuen uns über Ihre Spende per Banküberweisung auf das untenstehende Konto. Wir können dafür – sofern gewünscht – eine Spendenbescheinigung ausstellen. Setzen Sie sich diesbezüglich mit uns in Verbindung (...@ackersyndikat.org) oder fügen Sie ihre Adresse im Verwendungszweck hinzu.
-Kontodaten:
+Wir freuen uns über Ihre Spende per Banküberweisung auf das untenstehende Konto.
 
-### Sachspende
+TODO KONTODATEN
 
-Neben Geldspenden können uns in Zukunft auch Sachspenden helfen. Viele Hofprojekte freuen sich, beispielsweie landwirtschaftliche Maschinen oder Werkzeug zu erhalten und damit deren Lebenszeit zu verlängern. Bei Interesse an einer Sachspende können Sie uns gerne unter ...@ackersyndikat.org kontaktieren und wir prüfen, ob die Sachspende für eins der Hofprojekte interessant ist.
+### Hinweis zur Spendenbescheinigung
+
+Beiträge und Spenden an den Ackersyndikat e.V. können steuerlich geltend gemacht werden.
+
+Um einen unnötigen Verwaltungsaufwand zu vermeiden stellen wir Spendenbescheinigungungen erst ab 200,– EUR aus. Niedrigere Spenden können Sie einfach mit einem Zahlungsbeleg (z.B. Kontoauszug) geltend machen. Der Beleg muss folgende Daten beinhalten:
+
+- Ihren Namen
+- Ihre Kontonummer
+- der Name des Empfängers: Ackersyndikat e.V.
+- die Bankverbindung des Empfängers
+- Höhe des Spendenbetrags
+- Buchungstag der Spende
+
+### Empfänger der Spende
+
+<pre>Ackersyndikat e.V.
+Kirchweg 1
+D-34260 Kaufungen</pre>
+
+Der „Ackersyndikat e.V.“ ist wegen der Förderung von Wissenschaft und Forschung, der Bildung, des Umweltschutzes, des Tierschutzes sowie der allgemeinen Förderung des demokratischen Staatswesens nach dem Freistellungsbescheid des Finanzamtes Kassel, Steuer-Nr. TODO ???????, vom ???? nach §5 Abs. 1 Nr. 9 des Körperschaftssteuergesetzes von der Körperschaftssteuer und nach §3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit. Der "Ackersyndikat e.V." ist berechtigt Zuwendungsbestätigungen für Spenden und Mitgliedsbeiträge auszustellen.  
+Die Einhaltung der satzungsmäßigen Voraussetzungen nach den §§51, 59, 60 und 61 AO wurde vom Finanzamt Kassel II-Hofgeismar Steuer-Nr. ????????? mit Bescheid vom ??????? nach § 60a AO gesondert festgestellt. Wir fördern nach unserer Satzung Wissenschaft und Forschung, Bildung, Umweltschutzes, Tierschutzes sowie im Allgemeinen das demokratische Staatswesen.
