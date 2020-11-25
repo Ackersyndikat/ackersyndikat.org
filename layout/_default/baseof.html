@@ -27,7 +27,11 @@
       <ul class="menu">
         {{ range .Site.Menus.main }}
         <li>
+          {{ if eq .URL ""}}
+          <span>{{ .Name }}</span>
+          {{ else }}
           <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+          {{ end }}
           {{ if .HasChildren }}
           <div class="dropdown">
             <ul>

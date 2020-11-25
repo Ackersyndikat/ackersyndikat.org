@@ -17,3 +17,25 @@ pages = "/:filename/"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "Ackersyndikat"
+    name = "Ackersyndikat"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "Unterstützen"
+    name = "Unterstützen"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "Über uns"
+    name = "Über uns"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "Mehr Infos"
+    name = "Mehr Infos"
+    weight = 4

@@ -17,7 +17,7 @@ nav
         li
             display: inline
             position: relative
-            a
+            a, span
                 display: block
                 padding: 1em 0
                 +desktop
@@ -50,16 +50,15 @@ nav
                         +desktop
                             padding: 0.4em 0
 
-
     .menu-icon
-        +desktop
-            display: none
         cursor: pointer
         display: inline-block
         float: right
         padding: 28px 20px
         position: relative
         user-select: none
+        +desktop
+            display: none
         .navicon
             display: block
             position: relative
