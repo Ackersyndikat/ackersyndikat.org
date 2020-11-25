@@ -8,6 +8,8 @@ menu:
 
 #### Was ist ein Direktkredit und warum braucht das Ackersyndikat Direkkredite?
 
+{{< img src="direktkredit" >}}
+
 Für den Erwerb von Höfen und landwirtschaftlichen Flächen wird in den allermeisten Fällen Eigenkapital benötigt (Siehe Finanzierung-link zu Finanzierungs-Seite). Nachrangige Darlehen, genannt Direktkredite, sind eine gute Möglichkeit für Hofprojekte, dieses Eigenkapital darzustellen. Dabei schließen Privatpersonen, zum Beispiel Sie, einen Kreditvertrag mit dem entsprechenden Hofprojekt und vereinbaren darin die Konditionen. Als Ergänzung zu Spenden sind Direktkredite also eine Möglichkeit, Projekte finanziell zu unterstützen und das Geld zu einem späteren Zeitpunkt zurückzuerhalten. Und nicht nur die Hofprojekte brauchen Direktkredite, auch das Ackersyndikat selbst ist auf Direktkredite angewiesen. Diese werden verwendet, um sich mit einem Gesellschafteranteil an den Hofprojekten zu beteiligen und darüber deren Unverkäuflichkeit zu garantieren. Mit Ihrem Direktkredit können Sie also direkt dabei helfen, die sozial-ökologische Wende in der Landwirtschaft voranzutreiben und dauerhaft zu sichern.
 
 #### Wie gebe einen Direktkredit?
