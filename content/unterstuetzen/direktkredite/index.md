@@ -17,16 +17,17 @@ Wenn Sie etwas Geld zur Verfügung haben und der Meinung sind, dass es beim Acke
 #### Wie sicher ist so ein Direktkredit?
 
 Richtig ist: Bankübliche Sicherheiten können wir nicht garantieren. Einem Ackersyndikatsprojekt oder dem Ackersyndikat e.V. einen Direktkredit zu gewähren ist leider immer mit Risiken verbunden.  
-Denn Direktkredite sind Nachrangdarlehen mit einer qualifizierten Rangrücktrittsklausel (nachrangige Darlehen). Die Klausel besagt zum einen, dass kein Geld an die Direktkreditgeber*innen zurückgezahlt werden muss, falls damit die Zahlungsfähigkeit der Kreditnehmerin (Hof-GmbH oder Ackersyndikat e.V.) gefährdet ist. Zum anderen werden im Falle einer Insolvenz erst der Bankkredit und die Forderungen aller anderen nicht nachrangigen Gläubiger*innen bedient und dann erst die Direktkreditgeber\*innen. Das heißt, dass es im schlimmsten Fall zu einem vollständigen Verlust des von Ihnen angelegten Geldes kommen könnte.
+Denn Direktkredite sind Nachrangdarlehen mit einer qualifizierten Rangrücktrittsklausel (nachrangige Darlehen). Die Klausel besagt zum einen, dass kein Geld an die Direktkreditgeber\*innen zurückgezahlt werden muss, falls damit die Zahlungsfähigkeit der Kreditnehmerin (Hof-GmbH oder Ackersyndikat e.V.) gefährdet ist. Zum anderen werden im Falle einer Insolvenz erst der Bankkredit und die Forderungen aller anderen nicht nachrangigen Gläubiger\*innen bedient und dann erst die Direktkreditgeber\*innen. Das heißt, dass es im schlimmsten Fall zu einem vollständigen Verlust des von Ihnen angelegten Geldes kommen könnte.  
 Im Falle finanzieller Engpässe kann es also unter Umständen dazu kommen, dass Direktkredite nicht sofort zurückgezahlt werden können, wenn andernfalls das Ackersyndikat zahlungsunfähig würde. In einem solchen Fall müsste vor der Rückzahlung zunächst eine alternative Finanzierung gefunden werden.  
 Wir bemühen uns aber natürlich mit all unseren Möglichkeiten, dass es nicht soweit kommt. Direktkredite sind ein im Mietshäuser Syndikat erprobtes Modell, nur eines der mehr als 150 Hausprojekte ist bisher insolvent gegangen.
 
-Zwischen den Kreditgeber\*innen und dem Ackersyndikat oder Hofprojekt wird ein Kreditvertrag abgeschlossen, in dem Kreditbetrag, Zinsen, Kündigungsfrist, Laufzeit und eine qualifizierter Rangrücktrittsklausel klar geregelt sind.
+Zwischen den Kreditgeber\*innen und dem Ackersyndikat oder Hofprojekt wird ein Kreditvertrag abgeschlossen, in dem Kreditbetrag, Zinsen, Kündigungsfrist, Laufzeit und eine qualifizierter Rangrücktrittsklausel klar geregelt sind.  
 Für einen Direktkredit an den Ackersyndikat e.V. gilt:
-Kreditbetrag: ab 1.000 EUR
-Zinsen: fünf verschiedene Zinsätze im Bereich bis max. 1,1 % p.a.. (Stand 26.11.2020)
-Kündigungsfrist: ab 6 Monate
-Qualifizierte Rangrücktrittsklausel
+
+- **Kreditbetrag**: ab 1.000 EUR
+- **Zinsen**: fünf verschiedene Zinsätze im Bereich bis max. 1,1 % p.a.. (Stand 26.11.2020)
+- **Kündigungsfrist**: ab 6 Monate
+- Qualifizierte Rangrücktrittsklausel
 
 #### Rechtliche Hinweise
 
