@@ -11,7 +11,7 @@ menu:
 Wir freuen uns sehr, dass Du interessiert daran bist, Mitglied im Ackersyndikat e.V, zu werden. Dafür kannst Du einfach dieses Formular hier herunterladen, ausfüllen, unterschreiben und per Mail oder Post an uns senden. Alle weiteren Fragen sind hoffentlich im Beitrittsformular erklärt. Wenn noch etwas unklar ist, kannst du uns Rückfragen gerne an kontakt@ackersyndikat.org schicken.  
 Außerdem findest du hier noch die Vereinssatzung.
 
-<input class="button" type="button" value="Beitrittsformular">
+<a class="button" href="FORMULARLINK" >Beitrittsformular</a>
 
 Wir freuen uns immer, wenn neue Menschen mit uns gemeinsam aktiv werden wollen. Um eine gute Zusammenarbeit zu ermöglichen, ist es uns wichtig, neue Mitglieder auch kennenzulernen. Melde dich gerne unter kontakt@ackersyndikat.org bei uns und wir schauen, dass wir ein Treffen vereinbaren (gegebenenfalls auch online).
 
