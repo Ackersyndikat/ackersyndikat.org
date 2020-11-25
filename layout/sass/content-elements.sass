@@ -1,0 +1,57 @@
+main
+    blockquote
+        display: block
+        border-width: 4px 0
+        border-style: solid
+        border-color: #eee
+        padding: 1.5em 1em 0.5em
+        margin: 1.5em 1em
+        position: relative
+        &:before
+            content: '\201C'
+            position: absolute
+            top: 0em
+            left: 50%
+            transform: translate(-50%, -50%)
+            background: #fff
+            width: 3rem
+            height: 2rem
+            font: 6em/1.08em $font, sans-serif
+            color: #666
+            text-align: center
+        &:after
+            content: "\2013 \2003" attr(cite)
+            display: block
+            text-align: right
+            font-size: 0.875em
+            color: #e74c3c
+    table
+        font-size: 0.9rem
+        margin-bottom: 4em
+        +desktop
+            border-spacing: $main-padding/2 0.3em
+            border-collapse: separate
+            margin-left: -$main-padding
+            width: calc(100% + #{$main-padding * 2})
+        thead th
+            text-align: left
+            border-bottom: 4px solid #eee
+        td
+            padding: 0 0em
+    img
+        float: right
+        max-width: calc(65%)
+        margin: 0 (-$main-padding - 8em) 2em 2em
+        outline: 1px solid #aaa
+        outline-offset: 4px
+        transform: rotate(2deg)
+        transition: 250ms
+        &:hover
+            // filter: contrast(1.2)
+            filter: sepia(0.3)
+        &.svg
+            float: none
+            max-width: 100%
+            outline: none
+            transform: initial
+            margin: 2em 0

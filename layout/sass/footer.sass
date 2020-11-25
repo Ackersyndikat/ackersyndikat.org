@@ -1,0 +1,32 @@
+footer
+    align-items: flex-start
+    box-sizing: border-box
+    column-gap: 4em
+    display: flex
+    flex-direction: column-reverse
+    margin: 0
+    max-width: $linewidth
+    padding: 9em 3em 2em
+    row-gap: 2em
+    width: 100%
+    border-left: 1px solid rgba(0,0,0,0.05)
+    border-right: 1px solid rgba(0,0,0,0.05)
+    +desktop
+        flex-direction: row
+        div
+            max-width: 30%
+    ul
+        padding-left: 0
+        li
+            display: block
+    a, li, p
+        color: $white
+        text-shadow: 1px 1px 0 rgba(0,0,0,0.1)
+    a:hover
+        color: darken($white, 10)
+    .title
+        background: $white
+        color: $primary
+        padding: 0.2em 0.3em
+        font-size: 1.5rem
+        font-weight: 600

@@ -1,0 +1,37 @@
+header
+    box-sizing: border-box
+    margin-bottom: 2em
+    max-width: $linewidth + 40px
+    padding: 0
+    width: 100%
+    z-index: 2
+    +desktop
+        padding-left: 2em
+    h1
+        display: inline-block
+        box-sizing: border-box
+        margin: 0
+        a
+            display: block
+            padding: 0.4em 0.5em
+    h1, nav .menu, .menu-icon
+        background: $white
+        +desktop
+            border-bottom-right-radius: 5px
+            border-bottom-left-radius: 5px
+
+.backdrop
+    overflow: hidden
+    z-index: -2
+    position: absolute
+    top: 0
+    min-height: 1em
+    max-height: 13em
+    width: 100%
+    img
+        width: 100%
+        +desktop
+            transform: translateY(-7em)
+    &.full
+        min-height: 500px
+        max-height: 40vh
