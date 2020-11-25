@@ -10,43 +10,43 @@ body > section
             max-width: $linewidth + 50px
         &.wider
             max-width: $linewidth + 150px
-        div.h2
-            max-width: 37em
+    div.h2
+        max-width: 37em
+        margin: 0
+        +desktop
+            margin: 3em 0 3em 0
+        h2, h3
+            display: inline
             margin: 0
+            font-size: 2rem
+            line-height: 1.3em
+            padding: 0.01em 0.4em
+            background: $white
+            color: $primary
+            box-decoration-break: clone
+            -webkit-box-decoration-break: clone
             +desktop
-                margin: 3em 0 3em 0
-            h2, h3
-                display: inline
-                margin: 0
-                font-size: 2rem
-                line-height: 1.3em
-                padding: 0.01em 0.4em
-                background: $white
-                color: $primary
-                box-decoration-break: clone
-                -webkit-box-decoration-break: clone
-                +desktop
-                    font-size: 4rem
-            h3
-                font-size: 1.3em
-                +desktop
-                    font-size: 2.3em
-        &.yellow
-            padding: 2em 1em
-            font-size: 1.3rem
-            line-height: 1.5em
-            text-align: center
-            background: #FBF7ED
-            h3
-                font-size: 1.5em
-                font-weight: 400
+                font-size: 4rem
+        h3
+            font-size: 1.3em
             +desktop
-                padding: 2em 4em
-        &.green
-            padding: 4em 4em
-            margin-bottom: 4em
-        .button
-            font-size: 1.2em
+                font-size: 2.3em
+    &.yellow
+        padding: 2em 1em
+        font-size: 1.3rem
+        line-height: 1.5em
+        text-align: center
+        background: #FBF7ED
+        h3
+            font-size: 1.5em
+            font-weight: 400
+        +desktop
+            padding: 2em 4em
+    &.green
+        padding: 4em 4em
+        margin-bottom: 4em
+    .button
+        font-size: 1.2em
 
 .level
     display: flex
@@ -56,11 +56,25 @@ body > section
     column-gap: 2em
     text-align: center
     div
+        position: relative
         +desktop
             max-width: 22%
+        p, h3
+            color: $white
+        &::before
+            content: ""
+            position: absolute
+            width: 120%
+            height: 120%
+            top: -10%
+            left: -10%
+            z-index: -1
+            background: $primary
+            transform: rotate(-3deg)
     h3
         font-weight: 500
-        font-size: 1.4rem
+        font-size: 1.6rem
+        line-height: 0
 
 .expose
     margin: 3em 0
