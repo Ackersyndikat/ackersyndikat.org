@@ -34,8 +34,3 @@ pages = "/:filename/"
     identifier = "Über uns"
     name = "Über uns"
     weight = 3
-
-  [[menu.main]]
-    identifier = "Mehr Infos"
-    name = "Mehr Infos"
-    weight = 4
