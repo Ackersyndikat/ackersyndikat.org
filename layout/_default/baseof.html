@@ -15,8 +15,16 @@
 </head>
 
 <body>
-  {{ block "prenav" . }}
-  {{ end }}
+  <div class="backdrop">
+  <img sizes="(max-width: 1920px) 100vw, 1920px"
+    srcset="
+      {{ "hero_520.jpg" | relURL }} 520w,
+      {{ "hero_906.jpg" | relURL }} 906w,
+      {{ "hero_1216.jpg" | relURL }} 1216w,
+      {{ "hero_1920.jpg" | relURL }} 1920w"
+    src="{{ "hero_1920.jpg" | relURL }}"
+    alt="">
+  </div>
 
   <header>
     <h1><a href="{{ .Site.BaseURL }}">Das Ackersyndikat</a></h1>
