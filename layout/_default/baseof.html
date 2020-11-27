@@ -15,7 +15,7 @@
 </head>
 
 <body>
-  <div class="backdrop">
+  <div class="backdrop {{ if .IsHome }}full{{ end }}">
   <img sizes="(max-width: 1920px) 100vw, 1920px"
     srcset="
       {{ "hero_520.jpg" | relURL }} 520w,
