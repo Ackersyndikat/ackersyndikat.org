@@ -7,7 +7,7 @@ Kirchweg 1
 D-34260 Kaufungen
 
 Tel.: TODO TELEFONNUMMER
-E-Mail: kontakt@ackersyndikat.org</pre>
+E-Mail: kontakt@acker.....kat.org</pre>
 
 ### Vertretungsberechtigte Vorstände
 
