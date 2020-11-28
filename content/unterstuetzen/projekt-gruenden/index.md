@@ -8,20 +8,22 @@ menu:
 
 {{< img src="farm" >}}
 
-Egal ob 40 Jahre alte Kommune oder Hofneugründung, verschiedenste Projekte können Teil des Ackersyndikats werden und sich durch den Solidarverbund die Unverkäuflichkeit Ihrer Flächen garantieren lassen.
-Wenn ihr ein Projekt im Rahmen des Ackersyndikats gründen wollt, wendet euch am besten an uns unter kontakt@ackersyndikat.org und wir kommen ins Gespräch darüber, ob euer Projekt gut ins Ackersyndikat passt. Wenn ja, probieren wir, euch Berater\*innen zur Seite zu stellen, die euch bei den kommenden Schritten unterstützen und den Prozess begleiten.
+Ihr seid ein bereits bestehendes oder ein sich in Gründung befindendes Projekt , das ökologische Landwirtschaft betreibt oder betreiben möchte? Dann seid Ihr beim Ackersyndikat genau richtig!
+Denn egal, ob 40 Jahre bestehende Kommune oder Hofneugründung, verschiedenste Projekte können Teil des Ackersyndikats werden und sich durch den Solidarverbund die Unverkäuflichkeit ihrer Flächen garantieren lassen.  
+Wenn Ihr Interesse und/ oder Fragen habt, wie Euer Projekt ein Teil des Ackersyndikats
+werden kann , wendet euch einfach an uns unter kontakt@ackersyndikat.org. Wir stehen Euch gerne beratend zur Seite und begleiten Euch im Prozess!
 
-Vorher könnt ihr schonmal diese kleine Checkliste durchgehen, um zu schauen, ob euer Projekt zum Ackersyndikat passt:
+Vorab könnt Ihr eine kleine Checkliste durchgehen, um zu schauen, ob das Ackersyndikat etwas für Euch ist:
 
 Ihr wollt:
 
-- sozial-ökologische Landwirtschaft und/oder Forstwirtschaft betreiben
-- einen Hof übernehmen, aufbauen und/oder weiterführen
-- den Hof und die landwirtschaftlichen Flächen dauerhaft entprivatisieren
-- mit dem Land keinen Gewinn machen
-- andere Ackersyndikats-Projekte solidarisch unterstützen
-- euch selbst organisieren und verwalten
-- Strukturen schaffen, die sich dauerhaft selbst tragen
-- Menschen verschiedenster Hintergründe einbinden und zur Mitgestaltung befähigen
+- sozial-ökologische Landwirtschaft und/oder Forstwirtschaft betreiben?
+- einen Hof übernehmen, aufbauen und/oder weiterführen?
+- den Hof und die landwirtschaftlichen Flächen dauerhaft entprivatisieren?
+- mit dem Land keinen Gewinn machen?
+- andere Ackersyndikats-Projekte solidarisch unterstützen?
+- Euch selbst organisieren und verwalten?
+- Strukturen schaffen, die sich dauerhaft selbst tragen?
+- Menschen verschiedenster Hintergründe einbinden und zur Mitgestaltung befähigen?
 
-⇒ dann meldet euch gerne bei uns. Wir freuen uns auf euch!
+→ Dann meldet Euch gerne bei uns. Wir freuen uns auf Euch!
