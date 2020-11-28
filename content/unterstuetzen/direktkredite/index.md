@@ -6,33 +6,34 @@ menu:
     parent: "Unterstützen"
 ---
 
+Wir freuen uns jederzeit über weitere Unterstützung in Form von Direktkrediten. Sie sind eine wesentliche Säule zur Finanzierung von Hofprojekten, die in Kooperation mit dem Ackersyndikat realisiert werden und der Arbeit des Ackersyndikats selbst.
+
 #### Was ist ein Direktkredit und warum braucht das Ackersyndikat Direkkredite?
 
 {{< img src="direktkredit" >}}
 
-Für den Erwerb von Höfen und landwirtschaftlichen Flächen wird in den allermeisten Fällen Eigenkapital benötigt (Siehe Finanzierung-link zu Finanzierungs-Seite). Nachrangige Darlehen, genannt Direktkredite, sind eine gute Möglichkeit für Hofprojekte, dieses Eigenkapital darzustellen. Dabei schließen Privatpersonen, zum Beispiel Sie, einen Kreditvertrag mit dem entsprechenden Hofprojekt und vereinbaren darin die Konditionen. Als Ergänzung zu Spenden sind Direktkredite also eine Möglichkeit, Projekte finanziell zu unterstützen und das Geld zu einem späteren Zeitpunkt zurückzuerhalten. Und nicht nur die Hofprojekte brauchen Direktkredite, auch das Ackersyndikat selbst ist auf Direktkredite angewiesen. Diese werden verwendet, um sich mit einem Gesellschafteranteil an den Hofprojekten zu beteiligen und darüber deren Unverkäuflichkeit zu garantieren. Mit Ihrem Direktkredit können Sie also direkt dabei helfen, die sozial-ökologische Wende in der Landwirtschaft voranzutreiben und dauerhaft zu sichern.
+Für den Erwerb von Höfen und landwirtschaftlichen Flächen wird in den [allermeisten Fällen Eigenkapital benötigt]{{< ref "finanzierung" >}}. Direktkredite sind Nachrangdarlehen, die als Eigenkapital gelten und so den Hofprojekten die Möglichkeit geben dieses darzustellen. Direktkredite sind Gelder, die dem Ackersyndikat oder einem unserer Hofprojekte von Privatpersonen oder Gruppen zur Verfügung gestellt werden.  
+Dazu schließen Privatpersonen, zum Beispiel Du, einen Kreditvertrag mit einem Hofprojekt, die Konditionen werden gemeinsam vereinbart. Direktkredite sind neben Spenden eine gute Möglichkeit, politisch, ökologisch und sozial engagierte Hofprojekte finanziell zu unterstützen und das Geld einem späteren Zeitpunkt zurückzuerhalten. Zinslose Direktkredite sind der Schlüssel, um die Flächennutzung auf niedrigem Kostenniveau zu ermöglichen.  
+Nicht nur die Hofprojekte brauchen Direktkredite, auch das Ackersyndikat selbst ist auf Direktkredite angewiesen. Diese werden verwendet, um sich mit einem Gesellschafteranteil an den Hofprojekten zu beteiligen und so deren [Unverkäuflichkeit zu garantieren]({{< ref "finanzierung" >}}). Mit Deinem Direktkredit kannst Du also direkt dazu beitragen, die sozial-ökologische Wende in der Landwirtschaft voranzutreiben und dauerhaft zu sichern.
 
-#### Wie gebe einen Direktkredit?
+#### Was hast Du als Kreditgeber\*in davon?
 
-Wenn Sie etwas Geld zur Verfügung haben und der Meinung sind, dass es beim Ackersyndikat besser aufgehoben ist, als bei einer Bank, ist ein Direktkredit möglicherweise genau das Richtige für Sie. Bei Interesse, das Ackersyndikat mit einem Direktkredit zu unterstützen, kontaktieren Sie uns gerne unter kontakt@ackersyndikat.org und wir lassen Ihnen die dafür nötigen Unterlagen zukommen.
+Wir bieten die Gewissheit, dass Dein Geld einem nachhaltigen und sozialen Zweck dient: Wir sichern dauerhaft unverkäufliche landwirtschaftliche Flächen, und wirken der Land- sowie Immobilienspekulation entgegen. Wir ermöglichen eine langfristige und soziale Geldanlage, bei der Du immer weißt, wo Dein Geld ist und was damit passiert. Private Bereicherung durch Gewinne oder Spekulation ist per Satzung und Kontrolle des Ackersyndikats ausgeschlossen.
 
-#### Wie sicher ist so ein Direktkredit?
+Direktkredite für Hofprojekte oder das Ackersyndikat selbst sind eine Form der solidarischen Geldanlage. Rein ökonomisch betrachtet mögen andere Geldanlagen effektiver sein. Mit einem Direktkredit weißt Du dafür, dass Dein Geld sozial-ökologische Hofprojekte ermöglicht.
 
-Richtig ist: Bankübliche Sicherheiten können wir nicht garantieren. Einem Ackersyndikatsprojekt oder dem Ackersyndikat e.V. einen Direktkredit zu gewähren ist leider immer mit Risiken verbunden.  
-Denn Direktkredite sind Nachrangdarlehen mit einer qualifizierten Rangrücktrittsklausel (nachrangige Darlehen). Die Klausel besagt zum einen, dass kein Geld an die Direktkreditgeber\*innen zurückgezahlt werden muss, falls damit die Zahlungsfähigkeit der Kreditnehmerin (Hof-GmbH oder Ackersyndikat e.V.) gefährdet ist. Zum anderen werden im Falle einer Insolvenz erst der Bankkredit und die Forderungen aller anderen nicht nachrangigen Gläubiger\*innen bedient und dann erst die Direktkreditgeber\*innen. Das heißt, dass es im schlimmsten Fall zu einem vollständigen Verlust des von Ihnen angelegten Geldes kommen könnte.  
-Im Falle finanzieller Engpässe kann es also unter Umständen dazu kommen, dass Direktkredite nicht sofort zurückgezahlt werden können, wenn andernfalls das Ackersyndikat zahlungsunfähig würde. In einem solchen Fall müsste vor der Rückzahlung zunächst eine alternative Finanzierung gefunden werden.  
-Wir bemühen uns aber natürlich mit all unseren Möglichkeiten, dass es nicht soweit kommt. Direktkredite sind ein im Mietshäuser Syndikat erprobtes Modell, nur eines der mehr als 150 Hausprojekte ist bisher insolvent gegangen.
+#### Welche Konditionen gelten für Direktkredite an den Ackersyndikat e.V.?
 
-Zwischen den Kreditgeber\*innen und dem Ackersyndikat oder Hofprojekt wird ein Kreditvertrag abgeschlossen, in dem Kreditbetrag, Zinsen, Kündigungsfrist, Laufzeit und eine qualifizierter Rangrücktrittsklausel klar geregelt sind.  
-Für einen Direktkredit an den Ackersyndikat e.V. gilt:
-
-- **Kreditbetrag**: ab 1.000 EUR
-- **Zinsen**: fünf verschiedene Zinsätze im Bereich bis max. 1,1 % p.a.. (Stand 26.11.2020)
-- **Kündigungsfrist**: ab 6 Monate
+- _Kreditbetrag_: ab 500 EUR
+- _Zinsen_: keine (Stand 26.11.2020)
+- _Kündigungsfrist_: ab 6 Monate
 - Qualifizierte Rangrücktrittsklausel
 
-#### Rechtliche Hinweise
+Wenn Du etwas Geld zur Verfügung hast und der Meinung bist, dass es beim Ackersyndikat besser aufgehoben ist, als bei einer Bank, ist ein Direktkredit möglicherweise genau das Richtige für Dich. Wenn Du Fragen hast oder das Ackersyndikat mit einem Direktkredit unterstützen möchtest, kontaktiere uns gerne unter kontakt@ackersyndikat.org.
 
-Nach dem Vermögensanlagengesetz bietet der Ackersyndikat e.V. seit dem TODO ???????? verschiedene neue Vermögensanlagen an, die in der Annahme jeweils unterschiedlich verzinster Nachrangdarlehen bestehen.  
-Im Rahmen der neuen Vermögensanlagen werden innerhalb von 12 Monaten nicht mehr als 100.000 EUR durch den Ackersyndikat e.V. angenommen. Es besteht daher keine Prospektpflicht nach dem Vermögensanlagengesetz.  
-Die Konditionen für einen Direktkredit an ein Hofprojekt sind beim jeweiligen Hofprojekt zu erfragen.
+#### Schritt für Schritt zum Direktkredit
+
+1. Sende uns eine Email an kontakt@ackersyndikat.org, wir beantworten gerne Deine Fragen und schicken Dir einen Direktkreditvertrag zu.
+2. Den Direktkreditvertrag füllst Du in zweifacher Ausführung aus, unterzeichnest ihn und schickst ihn an Ackersyndikat e.V., Kirchweg 1, 34260 Kaufungen. Wenn Dir ein Scan des Vertrages reicht, kannst Du uns den Vertrag auch in einfacher Ausführung schicken und somit Papier und Briefmarkenkosten sparen.
+3. Wir unterzeichnen den Vertrag und schicken ein Exemplar des Vertrags mit der Zahlungsaufforderung an Dich zurück. Wenn Du uns den Vertrag in einfacher Ausführung geschickt hast, erhältst du per Mail einen Scan des beidseitig unterschriebenen Vertrages.
+4. Einmal jährlich oder auf Anfrage schicken wir Dir einen Kontoauszug über Deinen Kredit.
