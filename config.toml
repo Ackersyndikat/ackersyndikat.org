@@ -1,5 +1,5 @@
-# baseURL = "https://ackersyndikat.org"
-baseURL = "https://ackersyndikat.github.io/ackersyndikat.org"
+baseURL = "https://ackersyndikat.org"
+# baseURL = "https://ackersyndikat.github.io/ackersyndikat.org"
 title = "Ackersyndikat"
 DefaultContentLanguage = "de"
 disableKinds = ["taxonomy","taxonomyTerm","sitemap","RSS","section"]
