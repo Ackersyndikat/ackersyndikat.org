@@ -12,6 +12,8 @@ Das Ackersyndikat ist durch die Kombination der Ideen von Solidarischer Landwirt
 
 ### Mietshäuser Syndikat – Gemeinsamkeiten und Unterschiede:
 
+<img src="mhs">
+
 Das Mietshäuser Syndikat (MHS) ist ein Solidarverbund von mittlerweile mehr als 150 selbstorganisierten Hausprojekten. Neben dem Rückgriff auf jahrelange Beratungsexpertise, hat das Ackersyndikat zu großen Teilen die rechtlichen Strukturen vom MHS übernommen, ebenso die Finanzpläne. Weitergehende Infos zum MHS gibt es [hier](https://syndikat.org).
 
 #### Doch warum braucht es dann ein Ackersyndikat zusätzlich zum MHS?
@@ -26,6 +28,8 @@ Die Gemeinnützigkeit des Ackersyndikats gründet sich auf den ökologischen und
 Diese Unterschiede zwischen dem Solidarverbund des Mietshäuser Syndikats und dem Solidarverbund des Ackersyndikats sind allerdings Mittel zum Zweck. Das Ackersyndikat sieht sich als Schwesterorganisation des MHS und ist diesem durch die große Überschneidung der Ziele sehr verbunden.
 
 <h3 id="solawi">Solidarische Landwirtschaft (Solawi) und Ackersyndikat– Gleiche Ideen, unterschiedliche Wirkungsbereiche</h3>
+
+<img src="solawi">
 
 Das Netzwerk Solidarische Landwirtschaft ist ein Zusammenschluss von regionalen Projekten, die nicht-industrielle, marktunabhängige, ökologische Landwirtschaft betreiben. Hierbei finanziert eine Verbraucher\*innengemeinschaft den landwirtschaftlichen Betrieb als solchen, anstatt für das einzelne Lebensmittel zu zahlen. Neben ökologischer Landwirtschaft geht es dabei auch um soziale Aspekte wie etwa faire Löhne und gegenseitige Unterstützung.  
 Das Ackersyndikat teilt die Ideen und Ziele der solidarischen Landwirtschaft. Der entscheidende Unterschied besteht darin, dass sich das Ackersyndikat auf Landeigentum bezieht, während sich das [Netzwerk Solidarische Landwirtschaft](https://www.solidarische-landwirtschaft.org/startseite) auf eine Wirtschaftsweise landwirtschaftlicher Betriebe fokussiert. Es ist also nicht „entweder Solawi oder Ackersyndikat“. Ackersyndikat und solidarische Landwirtschaft sind vielmehr Modelle, die sich gegenseitig unterstützen und gemeinsam autonome, ökologische und solidarische Hofprojekte ermöglichen.
