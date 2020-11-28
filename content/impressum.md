@@ -6,12 +6,15 @@ title: "Impressum"
 Kirchweg 1
 D-34260 Kaufungen
 
-Tel.: TODO TELEFONNUMMER
+Tel.: 05605-8007-60
 E-Mail: kontakt@acker.....kat.org</pre>
 
 ### Vertretungsberechtigte Vorstände
 
-TODO VORSTÄNDE
+- Sabrina Mannebach
+- Tamara Gremmelspacher
+- Ralf Gunter Kramp
+- Flavien Pierre Jean Mercier
 
 ### Rechtliche Hinweise
 

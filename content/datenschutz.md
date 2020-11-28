@@ -6,7 +6,6 @@ title: "Datenschutz"
 Kirchweg 1
 D-34260 Kaufungen
 
-Tel.: TODO TELEFONNUMMER
 E-Mail: kontakt@acker.....kat.org</pre>
 
 (im Folgenden: „Wir“) ist als Betreiber der Webseite ackersyndikat.org Verantwortlicher für die personenbezogenen Daten der Nutzer\*innen der Webseite (im Folgenden: „du“) im Sinne der Datenschutzgrundverordnung.
