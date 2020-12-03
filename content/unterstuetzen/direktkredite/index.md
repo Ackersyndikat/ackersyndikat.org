@@ -8,7 +8,7 @@ menu:
 
 Wir freuen uns jederzeit über weitere Unterstützung in Form von Direktkrediten. Sie sind eine wesentliche Säule zur Finanzierung von Hofprojekten, die in Kooperation mit dem Ackersyndikat realisiert werden und der Arbeit des Ackersyndikats selbst.
 
-#### Was ist ein Direktkredit und warum braucht das Ackersyndikat Direkkredite?
+#### Was ist ein Direktkredit und warum braucht das Ackersyndikat Direktkredite?
 
 {{< img src="direktkredit" >}}
 
