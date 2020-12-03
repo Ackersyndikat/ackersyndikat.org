@@ -10,11 +10,11 @@ Das Ackersyndikat ist ein dezentraler Solidarverbund von selbstorganisierten Hö
 
 <img src="strukturgrafik.svg" class="svg">
 
-Vorbild hierfür ist das [Mietshäuser Syndikat](https://syndikat.org), welches viele Werte, Motivationen und Strukturen mit dem Ackersyndikat teilt. Gemeinsamkeiten und Unterschiede von Ackersyndikat und Mietshäuser Syndikat sind hier (Link zu Vernetzungsseite einfügen) dargestellt.
+Vorbild hierfür ist das [Mietshäuser Syndikat](https://syndikat.org), welches viele Werte, Motivationen und Strukturen mit dem Ackersyndikat teilt. Gemeinsamkeiten und Unterschiede von Ackersyndikat und Mietshäuser Syndikat sind [hier]({{< ref "woher-kommts" >}}) dargestellt.
 
 Einer der grundlegenden Werte des Ackersyndikats ist die Autonomie der einzelnen Hofprojekte. Dies bedeutet, dass alle alltäglichen Fragen der Ausgestaltung des Projektes inklusive der Geschäftsführung den Nutzer\*innen des Hofes überlassen sind. Dem Ackersyndikat wird lediglich bei Neuverpachtungen des ganzen Hofes eine voraussichtlich aktivere Rolle zukommen, um die Kontinuität der Hofprojekte und den Erhalt der Grundwerte der Ackersyndikats- Projekte und des Ackersyndikats zu sichern. Daher ist es auch im Hofnutzer\*innen-Verein Mitglied. Denn bei Höfen gibt es im Gegensatz zu den Mietshäusern oft nur eine\*n Pächter\*in, so dass eine Kontinuität nicht über viele Bewohner\*innen von alleine entsteht.
 
-Finanziert werden die Projekte über Direktkredite aus dem Umfeld der Nutzerer\*innen, und über übliche Bankdarlehen. Die Beteiligung des Ackersyndikats an Hofprojekten wird auch über [Spenden]({{< ref "spenden" >}}) und [Direktkredite ans Ackersyndikat]({{< ref "direktkredite" >}}) ans Ackersyndikat ermöglicht. , Darum freuen wir uns sehr über Deine Unterstützung!
+Finanziert werden die Projekte über Direktkredite aus dem Umfeld der Nutzerer\*innen, und über übliche Bankdarlehen. Die Beteiligung des Ackersyndikats an Hofprojekten wird auch über [Spenden]({{< ref "spenden" >}}) und [Direktkredite]({{< ref "direktkredite" >}}) ans Ackersyndikat ermöglicht. , Darum freuen wir uns sehr über Deine Unterstützung!
 
 #### Vorteile des Ackersyndikats im Vergleich...
 
@@ -29,7 +29,7 @@ Finanziert werden die Projekte über Direktkredite aus dem Umfeld der Nutzerer\*
 ### Aktueller Stand
 
 - Im November 2020 wurde der gemeinnützige Verein Ackersyndikat e.V gegründet
-- Es gibt einige Anfragen von Höfen, die Teil des Ackersyndikats werden wollen (ggf. Links zu den Projekten?)
+- Es gibt einige Anfragen von Höfen, die Teil des Ackersyndikats werden wollen
 - Wir sind bereits dabei, die ersten Projekte zu beraten
 - Ackersyndikats-Projekten stehen fertig ausgearbeitete Finanzierungspläne zur Verfügung, mit denen sich die wirtschaftliche Machbarkeit von Projekten klären lässt.
 - Im Solidarverbund des Ackersyndikats bündeln sich diverse Expertisen. Auf dieses Wissen können die Hof-Projekte zurückgreifen.
