@@ -22,16 +22,14 @@ Wir bieten die Gewissheit, dass Dein Geld einem nachhaltigen und sozialen Zweck 
 
 Direktkredite für Hofprojekte oder das Ackersyndikat selbst sind eine Form der solidarischen Geldanlage. Rein ökonomisch betrachtet mögen andere Geldanlagen effektiver sein. Mit einem Direktkredit weißt Du dafür, dass Dein Geld sozial-ökologische Hofprojekte ermöglicht.
 
-
 **Wichtig:** Direktkredite sind Nachrangdarlehen mit einer qualifizierten Rangrücktrittsklausel.
-Die Klausel besagt zum einen, dass kein Geld an die Direktkreditgeber*\innen zurückgezahlt werden muss, falls damit die
+Die Klausel besagt zum einen, dass kein Geld an die Direktkreditgeber\*innen zurückgezahlt werden muss, falls damit die
 Zahlungsfähigkeit der Kreditnehmerin (Hof-GmbH oder Ackersyndikat e.V.) gefährdet ist. Zum anderen werden im Falle einer
-Insolvenz erst der Bankkredit und die Forderungen aller anderen nicht nachrangigen Gläubiger*\innen bedient und dann erst
+Insolvenz erst der Bankkredit und die Forderungen aller anderen nicht nachrangigen Gläubiger\*innen bedient und dann erst
 die Direktkreditgeber\*innen.
 
 Zwischen den Kreditgeber\*innen und dem Hofprojekt oder dem Ackersyndikat wird ein Kreditvertrag abgeschlossen, in dem
 Kreditbetrag, Zinsen, Kündigungsfrist, Laufzeit und eine qualifizierte Rangrücktrittsklausel klar geregelt sind.
-
 
 #### Welche Konditionen gelten für Direktkredite an den Ackersyndikat e.V.?
 
