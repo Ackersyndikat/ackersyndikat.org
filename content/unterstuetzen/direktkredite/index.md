@@ -37,7 +37,7 @@ Kreditbetrag, Zinsen, Kündigungsfrist, Laufzeit und eine qualifizierte Rangrüc
 
 - _Kreditbetrag_: ab 500 EUR
 - _Zinsen_: keine (Stand 26.11.2020)
-- _Kündigungsfrist_: ab 6 Monate
+- _Kündigungsfrist_: ab 3 Monate
 - Qualifizierte Rangrücktrittsklausel
 
 Wenn Du etwas Geld zur Verfügung hast und der Meinung bist, dass es beim Ackersyndikat besser aufgehoben ist, als bei einer Bank, ist ein Direktkredit möglicherweise genau das Richtige für Dich. Wenn Du Fragen hast oder das Ackersyndikat mit einem Direktkredit unterstützen möchtest, kontaktiere uns gerne unter [kontakt@acker.....kat.org](https://mailhide.io/en/e/uWVsOL0G).
@@ -51,11 +51,10 @@ Wenn Du etwas Geld zur Verfügung hast und der Meinung bist, dass es beim Ackers
 
 #### Rechtliche Hinweise
 
-Nach dem Vermögensanlagengesetz bietet der Ackersyndikat e.V. Vermögensanlagen an, die in der Annahme von
+Nach dem [Vermögensanlagengesetz](https://www.gesetze-im-internet.de/vermanlg/) bietet der Ackersyndikat e.V. Vermögensanlagen an, die in der Annahme von
 Nachrangdarlehen bestehen.
 
 Es werden insgesamt nicht mehr als 2.500.000 EUR durch den Ackersyndikat e.V. angenommen. Als gemeinnütziger Verein
-nimmt der Ackersyndikat e.V. die Ausnahme nach § 2c des Vermögensanlagegesetzes in Anspruch. Es besteht daher keine
-Prospektpflicht nach dem Vermögensanlagengesetz.
+nimmt der Ackersyndikat e.V. die Ausnahme nach [§ 2c des Vermögensanlagegesetzes](https://www.gesetze-im-internet.de/vermanlg/__2c.html) in Anspruch. Es besteht daher keine Prospektpflicht nach dem Vermögensanlagengesetz.
 
 Die Konditionen für einen Direktkredit an ein Hofprojekt sind beim jeweiligen Projekt zu erfragen.
