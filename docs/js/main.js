@@ -28,7 +28,10 @@ var captcha_lambda_endpoint = "https://captcha.morris-frank.dev/ackersyndikat";
 var replaceSecrets = function (secrets) {
     for (const key in secrets) {
         for (const root of document.getElementsByClassName("secret-" + key)){
-            root.innerHTML = secrets[key];
+            var new_root = document.createElement("SPAN");
+            new_root.innerHTML = secrets[key];
+            root.classList.remove("captcha-button");
+            root.parentNode.replaceChild(new_root, root);
         }
     }
 }
