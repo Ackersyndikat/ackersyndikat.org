@@ -24,7 +24,7 @@ function main() {
 
 ready(main);
   
-var captcha_lambda_endpoint = "https://captcha.morris-frank.dev/morrisfrank";
+var captcha_lambda_endpoint = "https://captcha.morris-frank.dev/ackersyndikat";
 var replaceSecrets = function (secrets) {
     for (const key in secrets) {
         for (const root of document.getElementsByClassName("secret-" + key)){
@@ -39,6 +39,7 @@ var onSuccessfullCaptcha = function (token) {
         if (this.readyState == 4 && this.status == 200) {
             let secrets = JSON.parse(this.responseText);
             replaceSecrets(secrets);
+            document.getElementById("captcha-modal").style.display = "none";
         }
     };
     XHR.open('POST', captcha_lambda_endpoint);
