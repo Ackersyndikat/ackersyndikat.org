@@ -12,6 +12,10 @@
   {{ $style := resources.Get "sass/main.sass" | toCSS $sass_options | fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
 
+  {{ $mainjs := resources.Get "js/main.js" }}
+  <script async src="{{ $mainjs.Permalink }}"></script>
+  <script src="https://hcaptcha.com/1/api.js" async defer></script>
+
   <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 </head>
 
@@ -59,6 +63,11 @@
   {{ block "main" . }}
   {{ end }}
 
+  <div id="captcha-modal">
+    <div class="h-captcha" data-sitekey="ff359c84-0958-4cbd-825f-13e165af9b23" data-callback="onSuccessfullCaptcha"></div>
+    <div class="cross">❌</div>
+  </div>
+
   <footer>
     <div>
       <span class="title">Das Ackersyndikat</span>
@@ -66,7 +75,9 @@
     </div>
     <div>
       <ul>
-        <li><a href="https://mailhide.io/en/e/uWVsOL0G">kontakt@acker.....kat.org</a></li>
+        <li>
+          <a class="captcha-button secret-email">kontakt@acker.....kat.org</a>
+        </li>
         <li><a href="{{ "impressum" | absURL }}">Impressum</a></li>
         <li><a href="{{ "datenschutz" | absURL }}">Datenschutz</a></li>
       </ul>

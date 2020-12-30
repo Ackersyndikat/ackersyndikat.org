@@ -38,11 +38,11 @@ Kreditbetrag, Zinsen, Kündigungsfrist, Laufzeit und eine qualifizierte Rangrüc
 - _Kündigungsfrist_: ab 3 Monate
 - Qualifizierte Rangrücktrittsklausel
 
-Wenn Du etwas Geld zur Verfügung hast und der Meinung bist, dass es beim Ackersyndikat besser aufgehoben ist, als bei einer Bank, ist ein Direktkredit möglicherweise genau das Richtige für Dich. Wenn Du Fragen hast oder das Ackersyndikat mit einem Direktkredit unterstützen möchtest, kontaktiere uns gerne unter [kontakt@acker.....kat.org](https://mailhide.io/en/e/uWVsOL0G).
+Wenn Du etwas Geld zur Verfügung hast und der Meinung bist, dass es beim Ackersyndikat besser aufgehoben ist, als bei einer Bank, ist ein Direktkredit möglicherweise genau das Richtige für Dich. Wenn Du Fragen hast oder das Ackersyndikat mit einem Direktkredit unterstützen möchtest, kontaktiere uns gerne unter {{< captcha "kontakt@acker.....kat.org" "email">}}.
 
 #### Schritt für Schritt zum Direktkredit
 
-1. Sende uns eine Email an [kontakt@acker.....kat.org](https://mailhide.io/en/e/uWVsOL0G), wir beantworten gerne Deine Fragen und schicken Dir einen Direktkreditvertrag zu.
+1. Sende uns eine Email an {{< captcha "kontakt@acker.....kat.org" "email">}}, wir beantworten gerne Deine Fragen und schicken Dir einen Direktkreditvertrag zu.
 2. Den Direktkreditvertrag füllst Du in zweifacher Ausführung aus, unterzeichnest ihn und schickst ihn an Ackersyndikat e.V., Kirchweg 1, 34260 Kaufungen. Wenn Dir ein Scan des Vertrages reicht, kannst Du uns den Vertrag auch in einfacher Ausführung schicken und somit Papier und Briefmarkenkosten sparen.
 3. Wir unterzeichnen den Vertrag und schicken ein Exemplar des Vertrags mit der Zahlungsaufforderung an Dich zurück. Wenn Du uns den Vertrag in einfacher Ausführung geschickt hast, erhältst du per Mail einen Scan des beidseitig unterschriebenen Vertrages.
 4. Einmal jährlich oder auf Anfrage schicken wir Dir einen Kontoauszug über Deinen Kredit.

@@ -66,3 +66,25 @@ main
         background: lighten($primary, 20)
         border-radius: 0.2em
         margin: 0.5em 0 1em
+
+#captcha-modal
+    display: none
+    position: fixed
+    bottom: 25vh
+    background: $white
+    padding: 3em 7em 2em
+    border: 1px solid rgba(0,0,0,0.1)
+    z-index: 2
+    box-shadow: 0px 2px 9px rgba(0,0,0,0.2)
+
+.cross
+    color: $text
+    position: absolute
+    top: 0
+    right: 0
+    font-size: 1.3em
+    padding: 0.5em 0.6em
+    transition: 200ms
+    opacity: 1
+    &:hover
+        opacity: 0.8
