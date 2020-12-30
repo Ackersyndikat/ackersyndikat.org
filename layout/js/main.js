@@ -10,7 +10,7 @@ function main() {
     // Add onclick handlers for closing elements
     for (const cross_elem of document.getElementsByClassName("cross")){
         cross_elem.onclick = function closeModal(event) {
-            event.target.parentElement.style.display = 'none';
+            event.target.parentNode.style.display = 'none';
         }
     }
 
@@ -28,10 +28,10 @@ var captcha_lambda_endpoint = "https://captcha.morris-frank.dev/ackersyndikat";
 var replaceSecrets = function (secrets) {
     for (const key in secrets) {
         for (const root of document.getElementsByClassName("secret-" + key)){
-            var new_root = document.createElement("SPAN");
-            new_root.innerHTML = secrets[key];
-            root.classList.remove("captcha-button");
-            root.parentNode.replaceChild(new_root, root);
+            let new_root = document.createElement("span");
+            new_root.innerHTML = secrets[key].trim();
+            root.parentNode.insertBefore(new_root, root);
+            root.remove();
         }
     }
 }
