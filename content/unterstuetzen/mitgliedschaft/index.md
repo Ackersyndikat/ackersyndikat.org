@@ -8,7 +8,7 @@ menu:
 
 {{< img src="kuh" >}}
 
-Wir freuen uns sehr, dass Du interessiert daran bist, Mitglied im Ackersyndikat e.V zu werden. Dafür kannst Du einfach dieses Formular [hier](Beitrittsformular_AckersyndikateV.pdf) demnächst herunterladen, ausfüllen, unterschreiben und per Mail oder Post an uns senden. Alle weiteren Fragen sind hoffentlich im Beitrittsformular erklärt. Wenn noch etwas unklar ist, Rückfragen beantworten wir gerne unter {{< captcha "kontakt@acker.....kat.org" "email">}}  
+Wir freuen uns sehr, dass Du interessiert daran bist, Mitglied im Ackersyndikat e.V zu werden. Dafür kannst Du einfach dieses Formular [hier](Beitrittsformular_AckersyndikateV.pdf) herunterladen, ausfüllen, unterschreiben und per Mail oder Post an uns senden. Alle weiteren Fragen sind hoffentlich im Beitrittsformular erklärt. Wenn noch etwas unklar ist, Rückfragen beantworten wir gerne unter {{< captcha "kontakt@acker.....kat.org" "email">}}  
 Außerdem findest Du hier noch die [Vereinssatzung](Ackersyndikat_Satzung_1.1.pdf).
 
 <!-- <a class="button" href="TODO FORMULARLINK" >Beitrittsformular</a> -->
