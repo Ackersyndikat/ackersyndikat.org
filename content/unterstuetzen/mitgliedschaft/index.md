@@ -25,3 +25,5 @@ Hier findest Du die Bestimmungen zum Beitritt neuer Mitglieder, wie sie auch in 
 > Natürliche Personen können **aktive Mitglieder** des Vereins werden, wenn sie im Verein aktiv werden wollen und zwei Mitglieder als ihre Pat\*innen benennen können. Einer der Pat\*innen muss das künftige Mitglied persönlich bekannt sein. Aktive Mitglieder sind stimmberechtigt, haben das Recht, sich an allen Aktivitäten des Vereins zu beteiligen und alle nicht aufgrund Datenschutzbestimmungen vertraulich zu haltenden Unterlagen des Vereins einzusehen.
 >
 > Juristische Personen können **aktive Mitglieder** werden, wenn die Mitgliederversammlung (MV) ihrem Mitgliedsantrag zustimmt. Die MV kann diese Entscheidung an eine Mitgliedskommission oder den Vorstand delegieren. Wenn diese Gremien sich nicht einstimmig für eine Mitgliedschaft aussprechen, entscheidet die MV.“
+
+Wenn Du aktives Mitglied werden möchtest und noch keine Pat\*innen hast, schreib uns gerne eine Mail und wir organisieren ein Kennenlerntreffen.
