@@ -34,7 +34,7 @@ Kreditbetrag, Zinsen, Kündigungsfrist, Laufzeit und eine qualifizierte Rangrüc
 #### Welche Konditionen gelten für Direktkredite an den Ackersyndikat e.V.?
 
 - _Kreditbetrag_: ab 500 EUR
-- _Zinsen_: keine (Stand 26.11.2020)
+- _Zinsen_: keine (Stand 01.02.2021)
 - _Kündigungsfrist_: ab 3 Monate
 - Qualifizierte Rangrücktrittsklausel
 
@@ -52,7 +52,6 @@ Wenn Du etwas Geld zur Verfügung hast und der Meinung bist, dass es beim Ackers
 Nach dem [Vermögensanlagengesetz](https://www.gesetze-im-internet.de/vermanlg/) bietet der Ackersyndikat e.V. Vermögensanlagen an, die in der Annahme von
 Nachrangdarlehen bestehen.
 
-Es werden insgesamt nicht mehr als 2.500.000 EUR durch den Ackersyndikat e.V. angenommen. Als gemeinnütziger Verein
-nimmt der Ackersyndikat e.V. die Ausnahme nach [§ 2c des Vermögensanlagegesetzes](https://www.gesetze-im-internet.de/vermanlg/__2c.html) in Anspruch. Es besteht daher keine Prospektpflicht nach dem Vermögensanlagengesetz.
+Von diesen Vermögensanlagen werden vom Ackersyndikat e.V. innerhalb von 12 Monaten nicht mehr als 100.000,- Euro angeboten. Es besteht daher keine Prospektpflicht nach dem Vermögensanlagengesetz.
 
 Die Konditionen für einen Direktkredit an ein Hofprojekt sind beim jeweiligen Projekt zu erfragen.
