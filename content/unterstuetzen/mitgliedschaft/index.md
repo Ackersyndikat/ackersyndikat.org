@@ -8,7 +8,7 @@ menu:
 
 {{< img src="kuh" >}}
 
-Wir freuen uns sehr, dass Du interessiert daran bist, Mitglied im Ackersyndikat e.V zu werden. Dafür kannst Du einfach dieses Formular [hier](Beitrittsformular_AckersyndikateV.pdf) herunterladen, ausfüllen, unterschreiben und per Mail oder Post an uns senden. Alle weiteren Fragen sind hoffentlich im Beitrittsformular erklärt. Wenn noch etwas unklar ist, Rückfragen beantworten wir gerne unter {{< captcha "kontakt@acker.....kat.org" "email">}}  
+Wir freuen uns sehr, dass Du interessiert daran bist, Mitglied im Ackersyndikat e.V zu werden. Dafür kannst Du einfach dieses Formular [hier](Antrag_auf_Mitgliedschaft_AckersyndikateV.pdf) herunterladen, ausfüllen, unterschreiben und per Mail oder Post an uns senden. Alle weiteren Fragen sind hoffentlich im Beitrittsformular erklärt. Wenn noch etwas unklar ist, Rückfragen beantworten wir gerne unter {{< captcha "kontakt@acker.....kat.org" "email">}}  
 Außerdem findest Du hier noch die [Vereinssatzung](Ackersyndikat_Satzung_1.1.pdf).
 
 <!-- <a class="button" href="TODO FORMULARLINK" >Beitrittsformular</a> -->
@@ -26,4 +26,4 @@ Hier findest Du die Bestimmungen zum Beitritt neuer Mitglieder, wie sie auch in 
 >
 > Juristische Personen können **aktive Mitglieder** werden, wenn die Mitgliederversammlung (MV) ihrem Mitgliedsantrag zustimmt. Die MV kann diese Entscheidung an eine Mitgliedskommission oder den Vorstand delegieren. Wenn diese Gremien sich nicht einstimmig für eine Mitgliedschaft aussprechen, entscheidet die MV.“
 
-Wenn Du aktives Mitglied werden möchtest und noch keine Pat\*innen hast, schreib uns gerne eine Mail und wir organisieren ein Kennenlerntreffen.
+Wenn Du aktives Mitglied werden möchtest und noch keine Pat\*innen hast, schreib uns gerne eine Mail und wir organisieren ein Kennenlerntreffen. Oder komm einfach zu einem unserer [regelmäßigen Kennenlerntreffen](ackersyndikat.org/unterstuetzen/mach-mit/).
