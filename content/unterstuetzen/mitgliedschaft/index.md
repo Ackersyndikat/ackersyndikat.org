@@ -26,4 +26,4 @@ Hier findest Du die Bestimmungen zum Beitritt neuer Mitglieder, wie sie auch in 
 >
 > Juristische Personen können **aktive Mitglieder** werden, wenn die Mitgliederversammlung (MV) ihrem Mitgliedsantrag zustimmt. Die MV kann diese Entscheidung an eine Mitgliedskommission oder den Vorstand delegieren. Wenn diese Gremien sich nicht einstimmig für eine Mitgliedschaft aussprechen, entscheidet die MV.“
 
-Wenn Du aktives Mitglied werden möchtest und noch keine Pat\*innen hast, schreib uns gerne eine Mail und wir organisieren ein Kennenlerntreffen. Oder komm einfach zu einem unserer [regelmäßigen Kennenlerntreffen](ackersyndikat.org/unterstuetzen/mach-mit/).
+Wenn Du aktives Mitglied werden möchtest und noch keine Pat\*innen hast, schreib uns gerne eine Mail und wir organisieren ein Kennenlerntreffen. Oder komm einfach zu einem unserer [regelmäßigen Kennenlerntreffen]({{< ref "mach-mit" >}}).
