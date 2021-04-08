@@ -1,4 +1,23 @@
-body > section
+.frontpage
+    display: grid
+    grid-template-columns: auto 24em
+    grid-gap: 1.5em
+ 
+.frontpage article
+    grid-column: 1/2
+
+.frontpage > aside
+    grid-column: 2/3
+    font-size: 0.9em
+    section
+        text-align: justify
+        box-sizing: border-box
+        padding: 2em 1em
+        border-left: 1px solid rgba(0,0,0,0.05)
+        border-right: 1px solid rgba(0,0,0,0.05)
+        background: rgba($white, 0.97)
+
+body section
     width: 100%
     display: block
     max-width: $linewidth
