@@ -1,13 +1,12 @@
 .frontpage
     display: grid
-    grid-template-columns: auto 24em
     grid-gap: 1.5em
- 
-.frontpage article
-    grid-column: 1/2
 
+@media (min-width: 1200px)
+  .frontpage
+    grid-template-columns: auto 24em
+ 
 .frontpage > aside
-    grid-column: 2/3
     font-size: 0.9em
     section
         text-align: justify
@@ -16,6 +15,7 @@
         border-left: 1px solid rgba(0,0,0,0.05)
         border-right: 1px solid rgba(0,0,0,0.05)
         background: rgba($white, 0.97)
+        box-shadow: 5px 5px 11px rgba(0, 0, 0, 0.1)
 
 body section
     width: 100%
