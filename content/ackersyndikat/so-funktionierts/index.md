@@ -15,7 +15,7 @@ menu:
 </figcaption>
 </figure>
 
-Das Ackersyndikat ist ein dezentraler Solidarverbund von selbstorganisierten Höfen. Im Ackersyndikat gehören die landwirtschaftlichen Flächen immer den Menschen, die sie ökologisch verantwortlich bewirtschaften und nutzen. Das Land ist dabei nicht Privateigentum, sondern unverkäufliches Gemeingut (Common). Die Höfe sind als <abbr title="Gesellschaft mit beschränkter Haftung">GmbH</abbr> mit zwei Gesellschafterinnen organisiert. Das ist einmal mit dem Hauptanteil der Hofnutzer\*innen-Verein, in dem alle Nutzer\*innen des Landes organisiert sind und durch den in Selbstorganisation das Land verwaltet und genutzt wird. Zum Zweiten ist der gemeinnützige Ackersyndikat <abbr title="eingetragener Verein">e.V.</abbr> Gesellschafterin der Hof-GmbH und garantiert über ein Vetorecht die Unverkäuflichkeit des GmbH-Besitzes. Der Verein hat als Wächterinstitution lediglich ein Stimmrecht bei GmbH-Satzungsänderungen, der Genehmigung des Jahresabschlusses und der Frage eines Verkaufs – der damit für immer ausgeschlossen wird. Zudem sorgt das Ackersyndikat für eine solidarische Zusammenarbeit der Höfe und ermöglicht Wissenstransfer, Beratung, finanziellen Beistand und eine gemeinsame Interessensvertretung.
+Das Ackersyndikat ist ein dezentraler Solidarverbund von selbstorganisierten Höfen. Im Ackersyndikat gehören die landwirtschaftlichen Flächen immer den Menschen, die sie ökologisch verantwortlich bewirtschaften und nutzen. Das Land ist dabei nicht Privateigentum, sondern unverkäufliches Gemeingut (Common). Die Höfe sind als <abbr title="Gesellschaft mit beschränkter Haftung">GmbH</abbr> mit zwei Gesellschafterinnen organisiert. Das ist einmal mit dem Hauptanteil der Hofnutzer\*innen-Verein, in dem alle Nutzer\*innen des Landes organisiert sind und durch den in Selbstorganisation das Land verwaltet und genutzt wird. Zum Zweiten ist der Ackersyndikat <abbr title="eingetragener Verein">e.V.</abbr> Gesellschafterin der Hof-GmbH und garantiert über ein Vetorecht die Unverkäuflichkeit des GmbH-Besitzes. Der Verein hat als Wächterinstitution lediglich ein Stimmrecht bei GmbH-Satzungsänderungen, der Genehmigung des Jahresabschlusses und der Frage eines Verkaufs – der damit für immer ausgeschlossen wird. Zudem sorgt das Ackersyndikat für eine solidarische Zusammenarbeit der Höfe und ermöglicht Wissenstransfer, Beratung, finanziellen Beistand und eine gemeinsame Interessensvertretung.
 
 <img src="strukturgrafik.svg" class="svg">
 
@@ -37,7 +37,7 @@ Finanziert werden die Projekte über Direktkredite aus dem Umfeld der Nutzerer\*
 
 ### Aktueller Stand
 
-- Im November 2020 wurde der gemeinnützige Verein Ackersyndikat e.V gegründet
+- Im November 2020 wurde der Verein Ackersyndikat e.V gegründet
 - Es gibt einige Anfragen von Höfen, die Teil des Ackersyndikats werden wollen
 - Wir sind bereits dabei, die ersten Projekte zu beraten
 - Ackersyndikats-Projekten stehen fertig ausgearbeitete Finanzierungspläne zur Verfügung, mit denen sich die wirtschaftliche Machbarkeit von Projekten klären lässt.
