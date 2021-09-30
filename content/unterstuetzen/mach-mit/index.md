@@ -19,9 +19,9 @@ Ihr seid als Einzelperson oder Projektinitiative (egal, ob als SoLawi, Kommune, 
 Dann kommt gerne zu unseren regelmäßigen Kennenlerntreffen. Allgemeine Fragen zum Ackersyndikat finden ebenso Raum, wie konkrete Fragen und Beratungsangebote einzelner Initiativen.
 Unsere Kennenlerntreffen finden regelmäßig 1x im Monat jeweils donnerstags um 19:00 in der ersten geraden Kalenderwoche (KW) statt. 
 Die **nächsten Termine** sind:
-09. September 2021 (KW 36)
 07. Oktober 2021 (KW 40)
 04. November 2021 (KW 44)
+02. Dezember 2021 (KW 48)
 …usw.
 
 Die Treffen finden bis auf Weiteres digital hier statt: https://jitsi.freifunk-duesseldorf.de/ackersyndikat
