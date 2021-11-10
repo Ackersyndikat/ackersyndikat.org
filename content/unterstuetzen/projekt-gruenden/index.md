@@ -20,7 +20,7 @@ Ihr wollt:
 - sozial-ökologische Landwirtschaft und/oder Forstwirtschaft betreiben?
 - einen Hof übernehmen, aufbauen und/oder weiterführen?
 - den Hof und die landwirtschaftlichen Flächen dauerhaft entprivatisieren?
-- mit dem Land keinen Gewinn machen?
+- mit Landeigentum keinen Gewinn machen (die Landwirtschaft darf und soll natürlich trotzdem auskömmliche Erträge abwerfen)?
 - andere Ackersyndikats-Projekte solidarisch unterstützen?
 - Euch selbst organisieren und verwalten?
 - Strukturen schaffen, die sich dauerhaft selbst tragen?
