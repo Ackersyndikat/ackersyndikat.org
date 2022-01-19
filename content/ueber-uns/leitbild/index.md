@@ -8,7 +8,7 @@ draft: true
 ---
 *Beschlossen auf dem Ackersyndikats-Treffen am 15.01.2022 in Niederkaufungen*
 
-**Wir wollen… 
+**Wir wollen…** 
 
 *Land entprivatisieren*: Wir überführen Flächen in kollektive Nutzung und sichern ihre Unverkäuflichkeit. Wir sind Teil der weltweiten [Commons-Bewegungen](https://commons-institut.org/was-sind-commons). Land ist keine Ware, sondern unsere Lebensgrundlage!
 
@@ -18,7 +18,7 @@ draft: true
 
 *Die Gesellschaft verändern*: Wir wollen politische Wirkung entfalten und gemeinschaftlich gesellschaftliche Verantwortung übernehmen. 
 
-**Wir handeln …
+**Wir handeln…**
 
 *solidarisch*: Wir vernetzen uns mit anderen Akteur\*innen und suchen die Kooperation. Wir helfen Projekten in Schwierigkeiten im Rahmen unserer Möglichkeiten. Wir kommunizieren wertschätzend und üben konstruktive Kritik.
 
