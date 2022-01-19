@@ -4,7 +4,6 @@ menu:
   main:
     weight: 1
     parent: "Über uns"
-draft: true
 ---
 *Beschlossen auf dem Ackersyndikats-Treffen am 15.01.2022 in Niederkaufungen*
 
