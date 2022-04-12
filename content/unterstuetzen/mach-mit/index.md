@@ -19,9 +19,9 @@ Ihr seid als Einzelperson oder Projektinitiative (egal, ob als SoLawi, Kommune, 
 Dann kommt gerne zu unseren regelmäßigen Kennenlerntreffen. Allgemeine Fragen zum Ackersyndikat finden ebenso Raum, wie konkrete Fragen und Beratungsangebote einzelner Initiativen.
 Unsere Kennenlerntreffen finden regelmäßig 1x im Monat jeweils donnerstags um 19:00 in der ersten geraden Kalenderwoche (KW) statt. 
 Die **nächsten Termine** sind:
-10. Februar 2022 (KW 06)
-10. März 2022 (KW 10)
-07. April 2022 (KW 14)
+05. Mai 2022 (KW 18)
+02. Juni 2022 (KW 22)
+14. Juli 2022 (KW 28)
 
 …usw.
 
