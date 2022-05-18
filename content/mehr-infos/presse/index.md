@@ -26,6 +26,9 @@ https://www.contraste.org/selbstorganisierte-wege-zur-loesung-der-bodenfrage/
 Mai 2021: "Landwirtschaft ohne Kapitalismus ist möglich" - SoZ Sozialistische Zeitung 
 https://www.sozonline.de/2021/05/landwirtschaft-ohne-kapitalismus-ist-moeglich/
 
+März 2021: "Land und Höfe als Commons" - Das Mädchen im Park
+https://dasmaedchenimpark.org/2021/05/28/land-und-hofe-als-commons/
+
 März 2021: "Neuer Verein möchte Äcker entprivatisieren" - piqd
 https://www.piqd.de/loesungen/neuer-verein-mochte-acker-entprivatisieren
 
@@ -36,3 +39,16 @@ https://www.contraste.org/land-und-hoefe-als-commons/
 
 April 2022: "Landwirtschaft ohne Profit: Erstes Ackersyndikat Deutschlands in Thüringen" - MDR Thüringen
 https://www.mdr.de/nachrichten/thueringen/ost-thueringen/saale-holzland/ackersyndikat-landwirtschaft-dorndorf-steudnitz-100.html
+
+**Weitere Berichte zum Ackersyndikat**
+
+"Land-Initiative 8: Ackersyndikat" - Aktion Agrar
+https://www.aktion-agrar.de/land/initiative-8/
+
+**Internationale Berichte**
+
+November 2021: "Innovative structures toward land access" - Thorsten Arnold
+https://thorstenarnold.com/innovative-structures-toward-land-access/
+
+November 2021: "Põllumajandussündikaat: ühisomand eraomandi asemel" - feriantano.com
+https://feriantano.com/et/articles/16179-the-agricultural-syndicate-common-property-instead-of-priva
