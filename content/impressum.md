@@ -12,9 +12,9 @@ E-Mail: kontakt@acker.....kat.org</pre>
 ### Vertretungsberechtigte Vorstände
 
 - Sabrina Mannebach
-- Tamara Gremmelspacher
+- Celine Pomplitz
 - Ralf Gunter Kramp
-- Flavien Pierre Jean Mercier
+- Jost Burhop
 
 ### Rechtliche Hinweise
 
