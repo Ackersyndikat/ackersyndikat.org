@@ -117,5 +117,5 @@ In unserem Solidarverbund gibt es verschiedenste Dinge zu erledigen und eine gro
 - Förderanträge stellen
 - Direktkredite einwerben
 
-**IT **
+**IT**
 - Server Administration
