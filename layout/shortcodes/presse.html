@@ -1,0 +1,15 @@
+<ul class="citation-list">
+    {{ with (index $.Site.Data.presse (.Get 0)) }}
+    {{ range . }}
+        <li>
+            <time>{{ .datum }}</time>
+            <span>
+                “<i>{{ with .titel }}{{ . }}{{ end }}</i>”
+                {{ with .quelle }} – {{ . }}{{ end }}
+            </span>
+            {{ with .link }}<a href="{{ . }}">{{ . }}</a>{{ end }}
+        </li>
+    {{ end }}
+    {{ end }}
+</ul>
+    
