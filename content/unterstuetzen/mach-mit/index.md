@@ -25,7 +25,7 @@ Die **nächsten Termine** sind:
 
 …usw.
 
-Die Treffen finden bis auf Weiteres digital hier statt: https://jitsi.freifunk-duesseldorf.de/ackersyndikat
+Die Treffen finden bis auf Weiteres digital hier statt: https://fairmeeting.net/Ackersyndikat
 
 Das Ackersyndikat freut sich darauf, Euch kennenzulernen, see you soon!
 
