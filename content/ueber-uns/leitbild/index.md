@@ -14,7 +14,7 @@ menu:
 
 *Ökologische Nachhaltigkeit*: Wir fördern Projekte, die sich hohe ökologische Ziele setzen. Wichtig ist uns hier vor Allem der Aufbau von Bodenfruchtbarkeit und Biodiversität sowie Klimafreundlichkeit. 
 
-*Bedürfnisorientierung*: Wir arbeiten an einer solidarischen Wirtschaft, die sich an den Bedürfnissen von Menschen orientiert, nicht an Profitinteressen. Daher überwinden wir Schritt für Schritt Logiken des Kapitalismus.
+*Bedürfnisorientierung*: Wir arbeiten an einer solidarischen Wirtschaft, die sich an den Bedürfnissen von Menschen orientiert, nicht an Profitinteressen. Daher überwinden wir Schritt für Schritt Logiken des Kapitalismus und treten für eine Verbesserung der Arbeitsbedingungen in der Landwirtschaft ein.
 
 *Die Gesellschaft verändern*: Wir wollen politische Wirkung entfalten und gemeinschaftlich gesellschaftliche Verantwortung übernehmen. 
 
