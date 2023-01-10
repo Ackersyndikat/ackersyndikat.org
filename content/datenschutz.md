@@ -20,12 +20,6 @@ Personenbezogene Daten sind solche Daten, die Rückschlüsse auf deine Identitä
 
 Es werden folgenden externe Skripte von anderen Verantwortlichen bereitgestellt werden. Im Rahmen des Einsatzes dieser Skripte, werden möglicherweiße personenbezogenen Daten erhoben und durch die verbundenen externen Anbieter verarbeitet.
 
-Hier listen wir die diese externen Dienste und ihre Datenschutzerklärung auf:
-
-| Anbieter |                                                          |
-| -------- | -------------------------------------------------------- |
-| hCaptcha | [Datenschutzerklärung](https://www.hcaptcha.com/privacy) |
-
 ### 3. Links zu anderen Webseites
 
 Unsere Webseite enthält Links zu Webseites von anderen, mit uns nicht verbundenen Anbietern. Nach Anklicken des Links haben wir keinen Einfluss mehr auf die Verarbeitung der übertragenen Daten (wie zum Beispiel der IP-Adresse oder der URL, auf der sich der Link befindet), da das Verhalten Dritter unserer Kontrolle entzogen ist. Für die Verarbeitung solcher Daten durch Dritte können wir daher keine Verantwortung übernehmen.
