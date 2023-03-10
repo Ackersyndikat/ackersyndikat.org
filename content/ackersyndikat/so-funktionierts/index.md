@@ -37,6 +37,8 @@ Finanziert werden die Projekte über Direktkredite aus dem Umfeld der Nutzerer\*
 
 ### Aktueller Stand
 
+{{< img src="DSC08314" >}}
+
 - Im November 2020 wurde der Verein Ackersyndikat e.V gegründet
 - Im September 2022 wurde der Beteiligungsbeschluss für das erste Projekt - die Obermühle Steudnitz - gefällt 
 - Es gibt Anfragen von ca. 20 Höfen und Initiativen, die Teil des Ackersyndikats werden wollen
