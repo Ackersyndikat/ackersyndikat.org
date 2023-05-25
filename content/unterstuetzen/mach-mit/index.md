@@ -64,7 +64,7 @@ In unserem Solidarverbund gibt es verschiedenste Dinge zu erledigen und eine gro
 - Steuern AS-Verein
 - Direktkredit-Verwaltung
 - Lohnbuchhaltung
-- Arbeitgeber\*in-Rolle
+- Arbeitgeber:in-Rolle
 - Soli-Beiträge verwalten
 - Transparenzregister, Vereinsregister u.ä.
 - Stiftungsverwaltung
