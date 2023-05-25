@@ -16,19 +16,19 @@ Für den Erwerb von Höfen und landwirtschaftlichen Flächen wird in den [allerm
 Dazu schließen Privatpersonen, zum Beispiel Du, einen Kreditvertrag mit einem Hofprojekt, die Konditionen werden gemeinsam vereinbart. Direktkredite sind neben Spenden eine gute Möglichkeit, politisch, ökologisch und sozial engagierte Hofprojekte finanziell zu unterstützen und das Geld einem späteren Zeitpunkt zurückzuerhalten. Zinslose Direktkredite sind der Schlüssel, um die Flächennutzung auf niedrigem Kostenniveau zu ermöglichen.  
 Nicht nur die Hofprojekte brauchen Direktkredite, auch das Ackersyndikat selbst ist auf Direktkredite angewiesen. Diese werden verwendet, um sich mit einem Gesellschafteranteil an den Hofprojekten zu beteiligen und so deren [Unverkäuflichkeit zu garantieren]({{< ref "finanzierung" >}}). Mit Deinem Direktkredit kannst Du also direkt dazu beitragen, die sozial-ökologische Wende in der Landwirtschaft voranzutreiben und dauerhaft zu sichern.
 
-#### Was hast Du als Kreditgeber\*in davon?
+#### Was hast Du als Kreditgeber:in davon?
 
 Wir bieten die Gewissheit, dass Dein Geld einem nachhaltigen und sozialen Zweck dient: Wir sichern dauerhaft unverkäufliche landwirtschaftliche Flächen, und wirken der Land- sowie Immobilienspekulation entgegen. Wir ermöglichen eine langfristige und soziale Geldanlage, bei der Du immer weißt, wo Dein Geld ist und was damit passiert. Private Bereicherung durch Gewinne oder Spekulation ist per Satzung und Kontrolle des Ackersyndikats ausgeschlossen.
 
 Direktkredite für Hofprojekte oder das Ackersyndikat selbst sind eine Form der solidarischen Geldanlage. Rein ökonomisch betrachtet mögen andere Geldanlagen effektiver sein. Mit einem Direktkredit weißt Du dafür, dass Dein Geld sozial-ökologische Hofprojekte ermöglicht.
 
 **Wichtig:** Direktkredite sind Nachrangdarlehen mit einer qualifizierten Rangrücktrittsklausel.
-Die Klausel besagt zum einen, dass kein Geld an die Direktkreditgeber\*innen zurückgezahlt werden muss, falls damit die
+Die Klausel besagt zum einen, dass kein Geld an die Direktkreditgeber:innen zurückgezahlt werden muss, falls damit die
 Zahlungsfähigkeit der Kreditnehmerin (Hof-GmbH oder Ackersyndikat e.V.) gefährdet ist. Zum anderen werden im Falle einer
-Insolvenz erst der Bankkredit und die Forderungen aller anderen nicht nachrangigen Gläubiger\*innen bedient und dann erst
-die Direktkreditgeber\*innen.
+Insolvenz erst der Bankkredit und die Forderungen aller anderen nicht nachrangigen Gläubiger:innen bedient und dann erst
+die Direktkreditgeber:innen.
 
-Zwischen den Kreditgeber\*innen und dem Hofprojekt oder dem Ackersyndikat wird ein Kreditvertrag abgeschlossen, in dem
+Zwischen den Kreditgeber:innen und dem Hofprojekt oder dem Ackersyndikat wird ein Kreditvertrag abgeschlossen, in dem
 Kreditbetrag, Zinsen, Kündigungsfrist, Laufzeit und eine qualifizierte Rangrücktrittsklausel klar geregelt sind.
 
 #### Welche Konditionen gelten für Direktkredite an den Ackersyndikat e.V.?
