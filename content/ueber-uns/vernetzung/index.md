@@ -8,7 +8,7 @@ menu:
 
 ### Vernetzung
 
-Das Ackersyndikat ist mit diversen Akteur\*innen vernetzt. Folgende Organisationen sind auf jeden Fall einen Blick wert:
+Das Ackersyndikat ist mit diversen Akteur:innen vernetzt. Folgende Organisationen sind auf jeden Fall einen Blick wert:
 
 - [Mietshäuser Syndikat (MHS)](https://syndikat.org): Solidarverbund von mittlerweile mehr als 150 selbstorganisierten Hausprojekten. Ursprung des Ackersyndikats.
 - [Netzwerk Solidarische Landwirtschaft](https://solidarische-landwirtschaft.org): Zusammenschluss von regionalen Projekten, die nicht-industrielle, marktunabhängige, ökologische Landwirtschaft betreiben.
