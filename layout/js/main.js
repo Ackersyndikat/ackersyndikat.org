@@ -24,7 +24,7 @@ function main() {
 
 ready(main);
 
-var captcha_lambda_endpoint = "https://captcha.morris-frank.dev/ackersyndikat";
+var captcha_lambda_endpoint = "https://captcha.morris-frank.com/ackersyndikat";
 var replaceSecrets = function (secrets) {
     for (const key in secrets) {
         for (const root of document.getElementsByClassName("secret-" + key)) {
