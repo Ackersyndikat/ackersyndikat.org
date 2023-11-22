@@ -4,7 +4,6 @@ menu:
   main:
     weight: 1
     parent: "Mehr Infos"
-draft: true
 ---
 
 Menschen, die Lust haben, sich weiter mit Zugang zu Land, Entprivatisierung von landwirtschaftlichen Flächen und sozial-ökologischer Agrarwende zu beschäftigen, legen wir folgende Hintergrundinformationen ans Herz:
