@@ -16,6 +16,7 @@ Eine ausführliche Analyse des Bodenmarktes in Deutschland inkl. Alternativen un
 [Common Ecologies: Transforming Agriculture and Beyond, 2023](Transforming-Agriculture.pdf)
 
 Eine Sammlung von Taktiken verschiedener Akteur:innen für die sozial-ökologische Agrarwende.
+
 [Common Ecologies: Transforming Agriculture - Poster, 2023](Transforming-Agriculture-Poster.pdf)
 
 
