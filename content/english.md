@@ -1,9 +1,5 @@
 ---
 title: "Collectivising Farm Ownership"
-menu:
-  main:
-    weight: 3
-    parent: "Ackersyndikat"
 ---
 
 ###How the Ackersyndikat builds common farm ownership networks in alliance with housing movements
