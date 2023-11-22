@@ -6,7 +6,7 @@ title: "Collectivising Farm Ownership"
 
 *This text was published in the book "Transforming Agriculture & Beyond - Infrastructures,tools and tactics for agroecological struggles and their allies" by [Common Ecologies](https://commonecologies.net/). We use it as a short english explanation of what we are doing. We hope, that we will soon have the capacities to launch an entire english version of our website. If the following inspires you, please don't hesitate to contact us for more information.*
 
-**This tactic builds a syndicated legal model for collective farm ownership, growing a network of self-managed and self-owned farms that support one another. This model is based on the model of the German [Mietshäuser Syndikat](www.syndikat.org), an anti-capitalist alliance of housing coops. It ensures that farms and their land are collectively owned, removed from the market and can’t be speculated with. It builds key infrastructures of the commons and of social movements, fostering radical models of co-farming and co-living, linking city and countryside.**
+**This tactic builds a syndicated legal model for collective farm ownership, growing a network of self-managed and self-owned farms that support one another. This model is based on the model of the German [Mietshäuser Syndikat](https://www.syndikat.org/), an anti-capitalist alliance of housing coops. It ensures that farms and their land are collectively owned, removed from the market and can’t be speculated with. It builds key infrastructures of the commons and of social movements, fostering radical models of co-farming and co-living, linking city and countryside.**
 
 *What’s the problem?*
 
