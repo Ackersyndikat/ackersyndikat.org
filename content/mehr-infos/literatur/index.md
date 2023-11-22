@@ -8,7 +8,7 @@ menu:
 
 Menschen, die Lust haben, sich weiter mit Zugang zu Land, Entprivatisierung von landwirtschaftlichen Flächen und sozial-ökologischer Agrarwende zu beschäftigen, legen wir folgende Hintergrundinformationen ans Herz:
 
-[Konzeptwerk Neue Ökonomie: Dossier gerechte Bodenpolitik, 2023](https://konzeptwerk-neue-oekonomie.org/wp-content/uploads/2023/04/Dossier_Bodenpolitik_KNOE2023.pdf)
+[Konzeptwerk Neue Ökonomie: Dossier gerechte Bodenpolitik, 2023](https://konzeptwerk-neue-oekonomie.org/wp-content/uploads/2023/04/Dossier_Bodenpolitik_KNOE2023.pdf) 
 Eine ausführliche Analyse des Bodenmarktes in Deutschland inkl. Alternativen und Handlungsideen, was dagegen getan werden kann.
 
 [Common Ecologies: Transforming Agriculture and Beyond, 2023](Transforming-Agriculture.pdf)
