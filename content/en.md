@@ -2,7 +2,7 @@
 title: "Collectivising Farm Ownership"
 ---
 
-###How the Ackersyndikat builds common farm ownership networks in alliance with housing movements
+### How the Ackersyndikat builds common farm ownership networks in alliance with housing movements
 
 *This text was published in the book "Transforming Agriculture & Beyond - Infrastructures,tools and tactics for agroecological struggles and their allies" by [Common Ecologies](https://commonecologies.net/). We use it as a short english explanation of what we are doing. We hope, that we will soon have the capacities to launch an entire english version of our website. If the following inspires you, please don't hesitate to contact us for more information.*
 
