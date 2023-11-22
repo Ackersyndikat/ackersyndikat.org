@@ -4,6 +4,7 @@ menu:
   main:
     weight: 2
     parent: "Über uns"
+draft: true
 ---
 
 Hier findet ihr eine Übersicht über Presseberichte zu uns, unterteilt in Berichte über das Ackersyndikat als Verbund und Berichte über einzelne Projekte.
