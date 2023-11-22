@@ -4,7 +4,6 @@ menu:
   main:
     weight: 3
     parent: "Ackersyndikat"
-draft: true
 ---
 
 ###How the Ackersyndikat builds common farm ownership networks in alliance with housing movements
