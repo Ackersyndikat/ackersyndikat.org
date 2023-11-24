@@ -10,12 +10,12 @@ Menschen, die Lust haben, sich weiter mit Zugang zu Land, Entprivatisierung von 
 
 [Konzeptwerk Neue Ökonomie: Dossier gerechte Bodenpolitik, 2023](https://konzeptwerk-neue-oekonomie.org/wp-content/uploads/2023/04/Dossier_Bodenpolitik_KNOE2023.pdf) 
 
-Eine ausführliche Analyse des Bodenmarktes in Deutschland inkl. Alternativen und Handlungsideen, was dagegen getan werden kann.
+- Eine ausführliche Analyse des Bodenmarktes in Deutschland inkl. Alternativen und Handlungsideen, was dagegen getan werden kann.
 
 
 [Common Ecologies: Transforming Agriculture and Beyond, 2023](Transforming-Agriculture.pdf)
 
-Eine Sammlung von Taktiken verschiedener Akteur:innen für die sozial-ökologische Agrarwende.
+- Eine Sammlung von Taktiken verschiedener Akteur:innen für die sozial-ökologische Agrarwende - einmal als Buch, einmal als Poster.
 
 [Common Ecologies: Transforming Agriculture - Poster, 2023](Transforming-Agriculture-Poster.pdf)
 
@@ -23,29 +23,30 @@ Eine Sammlung von Taktiken verschiedener Akteur:innen für die sozial-ökologisc
 
 Matthias Neuling: Auf fremden Pfaden, Dissertation, Stattbuch-Vlg. Berlin 1985 
 
-Auf dieser theoretischen Vorarbeit baut das Mietshäuser Syndikat auf
+- Auf dieser theoretischen Vorarbeit baut das Mietshäuser Syndikat auf.
 
 
 [Mietshäuser Syndikat: Broschüre Nr.8](https://www.syndikat.org/broschuere-nr-8-2021/)
 
-Informationen zum Mietshäuser Syndikat und seinen Projekten
+- Hier gibt es ausführliche Informationen zum Mietshäuser Syndikat und seinen Projekten.
 
 
-Diverse Studien des Netzwerks "Landwirtschaft ist Gemeingut", unter anderem:
+[Diverse Studien des Netzwerks "Landwirtschaft ist Gemeingut"](https://hohage-may.de/?page_id=11250), unter anderem:
 
-Thomas Rüter und Stephan May: Praxisleitfaden zur Frage der rechtlichen Gestaltung der „Landwirtschaft in Gemeinschaft“, 2022
-Thomas Rüter, Matthias Zaiser & Annika Nägel: Landwirtschaft als Gemeingut Eine politisch-rechtliche Bewertung nach vierzig Jahren Praxis, 2013
+[Thomas Rüter und Stephan May: Praxisleitfaden zur Frage der rechtlichen Gestaltung der „Landwirtschaft in Gemeinschaft“, 2022](https://hohage-may.de/wp-content/uploads/2022/11/Praxisleitfaden-LiG-2022-10-10.pdf)
+[Thomas Rüter, Matthias Zaiser & Annika Nägel: Landwirtschaft als Gemeingut Eine politisch-rechtliche Bewertung nach vierzig Jahren Praxis, 2013](https://hohage-may.de/wp-content/uploads/2017/07/Landwirtschaft-ist-Gemeingut.pdf)
 
-Insbesondere für rechtliche Detailfragen interessant
+- Diese Quellen sind insbesondere für rechtliche Detailfragen interessant.
 
 
 [Ein recht spannender Wikipedia-Eintrag zu Kapitalneutralisierung (Stand 11/2023)](https://de.wikipedia.org/wiki/Kapitalneutralisierung)
 
 [Heinrich Böll-Stiftung: Bodenatlas](https://www.boell.de/de/bodenatlas)
 
-Viele Informationen zu Böden aus ökologischer und politischer Sicht
+- Hier gibt es viele Informationen zu Böden aus ökologischer und politischer Sicht.
 
 [Netzwerk Flächensicherung: Berliner Erklärung, 2018](https://www.zugangzuland.de/berliner-erklaerung/)
-Eine Auflistung politischer Forderungen, hinter denen auch wir stehen und von denen die meisten auch heute noch auf eine Umsetzung warten.
+
+- Eine Auflistung politischer Forderungen, hinter denen auch wir stehen und von denen die meisten auch heute noch auf eine Umsetzung warten.
 
 Beim [Netzwerk Solidarische Landwirtschaft](https://www.solidarische-landwirtschaft.org/solawis-aufbauen/literatur) gibt es viele spannende Materialien rund um den Aufbau einer SoLaWi.
