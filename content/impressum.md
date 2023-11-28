@@ -6,7 +6,7 @@ title: "Impressum"
 Kirchweg 1
 D-34260 Kaufungen
 
-Tel.: 05605-8007-60
+Tel.: 05605-8007-97
 E-Mail: kontakt@acker.....kat.org</pre>
 
 ### Vertretungsberechtigte Vorstände
