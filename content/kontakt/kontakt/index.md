@@ -1,7 +1,9 @@
 ---
 title: "Kontakt"
 menu:
-  main: true
+  main: 
+  weight: 1
+    parent: "Kontakt"
 ---
 
 Nimm gerne Kontakt per Mail oder Telefon zu uns auf. Wir freuen uns, von dir zu hören! 
