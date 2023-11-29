@@ -2,7 +2,6 @@
 title: "Kontakt"
 menu:
   main: 1
-    draft: true
 ---
 
 Nimm gerne Kontakt per Mail oder Telefon zu uns auf. Wir freuen uns, von dir zu hören! 
