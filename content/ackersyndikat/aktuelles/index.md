@@ -21,3 +21,5 @@ menu:
 - Wir sind ca. 10 aktive Menschen im Verbund und haben eine langfristig funktionierende interne Struktur aufgebaut. Es gibt zweiwöchentliche Treffen in der Gesamtgruppe, verschiedene themenspezifische Arbeitsgruppen und 3 Mal jährliche Live-Treffen, bei denen über ein verlängertes Wochenende gemeinsam gearbeitet und gelacht wird.
 - In unserem Umfeld gründet sich gerade die Symbiose Stiftung, eine Treuhandstiftung, bei der nach aktuellen Überlegungen der Ackersyndikat e.V. Treuhänder werden soll. Wir freuen uns sehr darauf! An diese Stiftung werden dann auch steuerlich abzugsfähige Spenden und Zustiftungen möglich sein.
 - Wir freuen uns über weitere Anfragen von Höfen, die Teil des Ackersyndikats werden wollen – mehr Informationen dazu gibt es [hier]({{< ref "projekt-gruenden" >}}). Zudem freuen wir uns sehr über Unterstützung, zum Beispiel durch [ehrenamtliche Mitarbeit]({{< ref "mach-mit" >}}) oder durch [Spenden]({{< ref "spenden" >}}) und [Direktkredite]({{< ref "direktkredite" >}}). Fragen beantworten wir gerne unter kontakt@ackersyndikat.org.
+
+  
