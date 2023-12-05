@@ -4,6 +4,7 @@ menu:
   main:
     weight: 4
     parent: "Ackersyndikat"
+    draft: true
 ---
 
 ### Letztes Update 29.11.2023
