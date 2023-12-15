@@ -38,6 +38,9 @@ Matthias Neuling: Auf fremden Pfaden, Dissertation, Stattbuch-Vlg. Berlin 1985
 
 - Diese Quellen sind insbesondere für rechtliche Detailfragen interessant.
 
+[Zukunftsstiftung Landwirtschaft: Ein Leitfaden für außerfamiliäre Hofübergaben und Existenzgründungen in der Landwirtschaft](https://www.uni-kassel.de/upress/online/frei/978-3-89958-451-6.volltext.frei.pdf)
+
+- Eine detaillierte Ausführung zu Hofübergaben, allerdings bereits etwas veraltet.
 
 [Ein recht spannender Wikipedia-Eintrag zu Kapitalneutralisierung (Stand 11/2023)](https://de.wikipedia.org/wiki/Kapitalneutralisierung)
 
