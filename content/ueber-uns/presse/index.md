@@ -18,10 +18,6 @@ Hier findet ihr eine Übersicht über Presseberichte zu uns, unterteilt in Beric
 {{< presse "projekte" >}}
 
 <ul class="citation-list">
-<li>
-<video controls poster="https://media.morris-frank.com/file/morris-media/2022_steudnitz_720p.jpg" src="https://media.morris-frank.com/file/morris-media/2022_steudnitz_720p.mp4" />
-</li>
-</ul>
 
 **Weitere Berichte zum Ackersyndikat**
 
