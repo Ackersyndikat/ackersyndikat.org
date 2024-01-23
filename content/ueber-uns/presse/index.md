@@ -17,8 +17,6 @@ Hier findet ihr eine Übersicht über Presseberichte zu uns, unterteilt in Beric
 
 {{< presse "projekte" >}}
 
-<ul class="citation-list">
-
 **Weitere Berichte zum Ackersyndikat**
 
 {{< presse "weitere" >}}
