@@ -1,0 +1,53 @@
+<!--version="1.0" encoding="utf-8" standalone="yes"--><!DOCTYPE html PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11.013889in" height="6.1944447in" class="slides-canvas" viewBox="0 0 793 446" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="application/ecmascript" contentStyleType="text/css">
+  <defs>
+    <marker id="ah1" markerUnits="userSpaceOnUse" markerWidth="34.017857" markerHeight="19.84375" viewBox="-17.008928 -9.921875 34.017857 19.84375" orient="auto" preserveAspectRatio="xMidYMid meet">
+      <path d="M12.76 0L-1.42 7.09-1.42-7.09 12.76 0z" fill="#808080"/>
+    </marker>
+    <marker id="ah2" markerUnits="userSpaceOnUse" markerWidth="34.017857" markerHeight="19.84375" viewBox="-17.008928 -9.921875 34.017857 19.84375" orient="auto" preserveAspectRatio="xMidYMid meet">
+      <path d="M12.76 0L-1.42 7.09-1.42-7.09 12.76 0z" fill="#72BF44"/>
+    </marker>
+  </defs>
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <rect x="0" y="0" width="793.75" height="446.4844" fill="#FFFFFF"/>
+    <path fill="#FFFFFF" d="M510.55 243.6L754.35 243.6 754.35 328.24 510.55 328.24z"/>
+    <path fill="#FFFFFF" d="M27.81 304.49C27.81 283.85 62.45 267.13 105.19 267.13L105.19 267.13C147.92 267.13 182.56 283.85 182.56 304.49L182.56 304.49C182.56 325.12 147.92 341.85 105.19 341.85L105.19 341.85C62.45 341.85 27.81 325.12 27.81 304.49z"/>
+    <path stroke-width="4.252232" stroke="#808080" fill="none" d="M27.81 304.49C27.81 283.85 62.45 267.13 105.19 267.13L105.19 267.13C147.92 267.13 182.56 283.85 182.56 304.49L182.56 304.49C182.56 325.12 147.92 341.85 105.19 341.85L105.19 341.85C62.45 341.85 27.81 325.12 27.81 304.49z"/>
+    <g transform="matrix(1, 0, 0, 1, 54.016136, 281.6121)"><text font-family="Liberation Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="22.669888" y="51.178864"><tspan x="14.169888" y="7.978863">Landwirt-</tspan><tspan x="5.6698875" y="29.578863">schaftlicher</tspan><tspan x="22.669888" y="51.178864">Betrieb</tspan></text></g>
+    <path fill="#FFFFFF" d="M27.87 198.24C27.87 177.6 62.51 160.88 105.24 160.88L105.24 160.88C147.98 160.88 182.62 177.6 182.62 198.24L182.62 198.24C182.62 218.87 147.98 235.6 105.24 235.6L105.24 235.6C62.51 235.6 27.87 218.87 27.87 198.24z"/>
+    <path stroke-width="4.252232" stroke="#808080" fill="none" d="M27.87 198.24C27.87 177.6 62.51 160.88 105.24 160.88L105.24 160.88C147.98 160.88 182.62 177.6 182.62 198.24L182.62 198.24C182.62 218.87 147.98 235.6 105.24 235.6L105.24 235.6C62.51 235.6 27.87 218.87 27.87 198.24z"/>
+    <g transform="matrix(1, 0, 0, 1, 54.07286, 175.36302)"><text font-family="Liberation Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="35.99606" y="40.378864"><tspan x="12.669888" y="18.778864">Hofverein</tspan><tspan x="35.99606" y="40.378864">e.V.</tspan></text></g>
+    <path fill="#FFFFFF" d="M246.03 195.59C246.03 174.96 284.81 158.24 332.64 158.24L332.64 158.24C380.47 158.24 419.24 174.96 419.24 195.59L419.24 195.59C419.24 216.22 380.47 232.94 332.64 232.94L332.64 232.94C284.81 232.94 246.03 216.22 246.03 195.59z"/>
+    <path stroke-width="4.252232" stroke="#808080" fill="none" d="M246.03 195.59C246.03 174.96 284.81 158.24 332.64 158.24L332.64 158.24C380.47 158.24 419.24 174.96 419.24 195.59L419.24 195.59C419.24 216.22 380.47 232.94 332.64 232.94L332.64 232.94C284.81 232.94 246.03 216.22 246.03 195.59z"/>
+    <g transform="matrix(1, 0, 0, 1, 274.94333, 172.72247)"><text font-family="Liberation Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="42.52078" y="40.368843"><tspan x="1.6946068" y="18.768845">Ackersyndikat</tspan><tspan x="42.52078" y="40.368843">e.V.</tspan></text></g>
+    <g transform="matrix(1, 0, 0, -1, 0, 502.72723)">
+      <path marker-end="url(#ah1)" stroke-width="2.8348215" stroke="#808080" fill="none" d="M105.19 160.88L105.24 326.64 105.24 328.06"/>
+    </g>
+    <path marker-end="url(#ah1)" stroke-width="2.8348215" stroke="#808080" fill="none" d="M437.72 265.65L545.46 265.7 546.88 265.7"/>
+    <g transform="matrix(1, 0, 0, 1, 572.9175, 260.29333)"><text font-family="Liberation Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="0" y="60.702797"><tspan x="0" y="17.502798">Ist Mitglied</tspan><tspan x="0" y="60.702797">Verpachtung/Vermietung</tspan></text></g>
+    <g transform="matrix(1, 0, 0, -1, 0, 605.0359)">
+      <path marker-end="url(#ah2)" stroke-width="2.8348215" stroke="#72BF44" fill="none" d="M437.02 302.5L544.75 302.53 546.17 302.53"/>
+    </g>
+    <g transform="matrix(0, 1, 1, 0, 22.03363, -22.03363)">
+      <path marker-end="url(#ah1)" stroke-width="2.8348215" stroke="#808080" fill="none" d="M182.91 83.21C173.91 83.21 164.91 110.48 164.91 137.75 164.91 165.02 191.93 192.29 218.94 192.29 245.96 192.29 272.97 221.87 272.97 251.45 272.97 270.15 269.37 288.84 264.45 300.07L263.51 301.12"/>
+    </g>
+    <path fill="#FFFFFF" d="M207.82 305.13C207.82 284.5 246 267.78 293.09 267.78L293.09 267.78C340.19 267.78 378.36 284.5 378.36 305.13L378.36 305.13C378.36 325.75 340.19 342.47 293.09 342.47L293.09 342.47C246 342.47 207.82 325.75 207.82 305.13z"/>
+    <path stroke-width="4.252232" stroke="#808080" fill="none" d="M207.82 305.13C207.82 284.5 246 267.78 293.09 267.78L293.09 267.78C340.19 267.78 378.36 284.5 378.36 305.13L378.36 305.13C378.36 325.75 340.19 342.47 293.09 342.47L293.09 342.47C246 342.47 207.82 325.75 207.82 305.13z"/>
+    <g transform="matrix(1, 0, 0, 1, 236.33969, 282.25995)"><text font-family="Liberation Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="3.2524796" y="51.168842"><tspan x="8.75248" y="7.9688435">Evtl. andere</tspan><tspan xml:space="preserve" x="104.75248" y="7.9688435"/><tspan x="6.7524796" y="29.568844">MieterInnen,</tspan><tspan xml:space="preserve" x="106.75248" y="29.568844"/><tspan x="3.2524796" y="51.168842">PächterInnen</tspan></text></g>
+    <g transform="matrix(-1, 0, 0, -1, 338.0389, 492.4117)">
+      <path marker-end="url(#ah1)" stroke-width="2.8348215" stroke="#808080" fill="none" d="M105.24 160.88L223.43 319.01 224.28 320.14"/>
+    </g>
+    <g transform="matrix(0, -1, -1, -0, 353.3488, 353.3488)">
+      <path marker-end="url(#ah1)" stroke-width="2.8348215" stroke="#808080" fill="none" d="M184.17 81.95C198.64 81.95 213.11 123.49 213.11 165.03 213.11 193.7 208.19 222.38 201.75 237.39L200.82 238.46"/>
+    </g>
+    <path fill="#FFFFFF" d="M492.72 197.29C492.72 176.66 531.49 159.94 579.32 159.94L579.32 159.94C627.15 159.94 665.93 176.66 665.93 197.29L665.93 197.29C665.93 217.92 627.15 234.64 579.32 234.64L579.32 234.64C531.49 234.64 492.72 217.92 492.72 197.29z"/>
+    <path stroke-width="4.252232" stroke="#808080" fill="none" d="M492.72 197.29C492.72 176.66 531.49 159.94 579.32 159.94L579.32 159.94C627.15 159.94 665.93 176.66 665.93 197.29L665.93 197.29C665.93 217.92 627.15 234.64 579.32 234.64L579.32 234.64C531.49 234.64 492.72 217.92 492.72 197.29z"/>
+    <g transform="matrix(1, 0, 0, 1, 521.6295, 174.42337)"><text font-family="Liberation Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="23.194607" y="51.168842"><tspan x="29.694607" y="7.9688435">andere</tspan><tspan xml:space="preserve" x="85.69461" y="7.9688435"/><tspan x="16.194607" y="29.568844">Projekte &amp;</tspan><tspan xml:space="preserve" x="99.19461" y="29.568844"/><tspan x="23.194607" y="51.168842">Förderer</tspan></text></g>
+    <g transform="matrix(-1, 0, 0, -1, 911.96204, 318.18036)">
+      <path marker-end="url(#ah1)" stroke-width="2.8348215" stroke="#808080" fill="none" d="M332.64 158.24L564.11 159.84 565.53 159.85"/>
+    </g>
+    <path marker-end="url(#ah2)" stroke-width="2.8348215" stroke="#72BF44" fill="none" d="M105.24 160.88L281.83 331.59 282.85 332.58"/>
+    <g transform="matrix(-1, 0, 0, 1, 210.42877, 0)">
+      <path marker-end="url(#ah2)" stroke-width="2.8348215" stroke="#72BF44" fill="none" d="M105.19 160.88L105.23 251.92 105.24 253.33"/>
+    </g>
+  </g>
+</svg>
