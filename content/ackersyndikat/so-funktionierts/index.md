@@ -19,7 +19,7 @@ Das Ackersyndikat ist ein dezentraler Solidarverbund von selbstorganisierten Hö
 
 Der Ackersyndikat e.V. ist nicht gemeinnützig, die lokalen Vereine sind es in der Regel auch nicht, Ausnahmen sind jedoch möglich.
 
-<img src="strukturgrafik.svg" class="svg">
+<img src="Strukturgrafik_Vereinslösung.svg" class="svg">
 
 Vorbild hierfür ist das [Mietshäuser Syndikat](https://syndikat.org), welches viele Werte, Motivationen und Strukturen mit dem Ackersyndikat teilt. Gemeinsamkeiten und Unterschiede von Ackersyndikat und Mietshäuser Syndikat sind [hier]({{< ref "woher-kommts" >}}) dargestellt.
 
