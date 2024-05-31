@@ -15,7 +15,7 @@ Menschen, die Lust haben, sich weiter mit Zugang zu Land, Entprivatisierung von 
 
 [Common Ecologies: Transforming Agriculture and Beyond, 2023](Transforming-Agriculture.pdf)
 
-- Eine Sammlung von Taktiken verschiedener Akteur:innen für die sozial-ökologische Agrarwende - einmal als Buch, einmal als Poster.
+- Eine Sammlung von Taktiken verschiedener Akteur\*innen für die sozial-ökologische Agrarwende - einmal als Buch, einmal als Poster.
 
 [Common Ecologies: Transforming Agriculture - Poster, 2023](Transforming-Agriculture-Poster.pdf)
 
