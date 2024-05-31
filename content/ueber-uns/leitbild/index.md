@@ -20,7 +20,7 @@ menu:
 
 **Wir handeln…**
 
-*solidarisch*: Wir vernetzen uns mit anderen Akteur:innen und suchen die Kooperation. Wir helfen Projekten in Schwierigkeiten im Rahmen unserer Möglichkeiten. Wir kommunizieren wertschätzend und üben konstruktive Kritik.
+*solidarisch*: Wir vernetzen uns mit anderen Akteur\*innen und suchen die Kooperation. Wir helfen Projekten in Schwierigkeiten im Rahmen unserer Möglichkeiten. Wir kommunizieren wertschätzend und üben konstruktive Kritik.
 
 *selbstorganisiert*: Wir bauen selbstbestimmte und dezentrale Strukturen auf. Wir entscheiden basisdemokratisch, alle Stimmen und Bedenken werden gehört. Unsere Tätigkeit beruht auf Freiwilligkeit.
 
