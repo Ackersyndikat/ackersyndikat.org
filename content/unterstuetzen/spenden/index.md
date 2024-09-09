@@ -20,11 +20,7 @@ Der Ackersyndikat e.V. ist leider vom Finanzamt Kassel nicht als gemeinnützig a
   IBAN: DE44430609671165042000
   BIC: GENODEM1GLS
 
-### Empfänger der Spende
-
-<pre>Ackersyndikat e.V.
-Kirchweg 1
-D-34260 Kaufungen</pre>
+Empfänger der Spende: Ackersyndikat e.V. ; Kirchweg 1 ; D-34260 Kaufungen
 
 **2. Spende an den NABE e.V. - gemeinnützig**
 Im Umfeld des Ackersyndikat e.V. werden auch viele gemeinnützige Tätigkeiten zum Beispiel im Bereich Bildung oder Naturschutz durchgeführt. Träger der gemeinnützigen Aktivitäten ist der NABE
@@ -34,8 +30,4 @@ e.V. (nabe-ev.org). Wer diese Aktivitäten unterstützen möchte, kann das mit e
   IBAN: DE24430609671335757801
   BIC: GENODEM1GLS
 
-  ### Empfänger der Spende
-
-<pre>NABE e.V.
-Kirchweg 1
-D-34260 Kaufungen</pre>
+Empfänger der Spende: NABE e.V. ; Kirchweg 1 ; D-34260 Kaufungen
