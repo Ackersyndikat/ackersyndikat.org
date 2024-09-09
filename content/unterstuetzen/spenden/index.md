@@ -23,6 +23,7 @@ Der Ackersyndikat e.V. ist leider vom Finanzamt Kassel nicht als gemeinnützig a
 Empfänger der Spende: Ackersyndikat e.V. ; Kirchweg 1 ; D-34260 Kaufungen
 
 **2. Spende an den NABE e.V. - gemeinnützig**
+
 Im Umfeld des Ackersyndikat e.V. werden auch viele gemeinnützige Tätigkeiten zum Beispiel im Bereich Bildung oder Naturschutz durchgeführt. Träger der gemeinnützigen Aktivitäten ist der NABE
 e.V. (nabe-ev.org). Wer diese Aktivitäten unterstützen möchte, kann das mit einer steuerlich abzugsfähigen Spende an den NABE e.V. tun.
 
